@@ -1,0 +1,2313 @@
+<!DOCTYPE html>
+
+
+<html itemscope itemtype="http://schema.org/WebPage" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<link rel="pingback" href="http://newhorizonindia.edu/nhengineering/xmlrpc.php">
+
+	<title>M.Tech - Communication Systems - New Horizon College of Engineering</title>
+
+<script type='text/javascript'>
+var ct_ajaxurl = 'http://newhorizonindia.edu/nhengineering/wp-admin/admin-ajax.php';
+ var ct_info_flag=false;
+var ct_set_cookies_flag=true;
+ </script>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://newhorizonindia.edu/nhengineering/mtech-courses/m-tech-communication-systems/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="M.Tech - Communication Systems - New Horizon College of Engineering" />
+<meta property="og:description" content="#pg-6688-0 , #pg-6688-1 , #pl-6688 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-6688-0 .panel-grid-cell , #pg-6688-1 .panel-grid-cell { float:none } #pl-6688 .panel-grid-cell .so-panel { margin-bottom:30px } #pg-6688-0 { margin-left:-15px;margin-right:-15px } #pg-6688-0 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-6688-0 .panel-grid-cell , #pg-6688-1 .panel-grid-cell" />
+<meta property="og:url" content="http://newhorizonindia.edu/nhengineering/mtech-courses/m-tech-communication-systems/" />
+<meta property="og:site_name" content="New Horizon College of Engineering" />
+<meta property="og:image" content="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/Civil-engineering-banner.jpg" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="800" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="#pg-6688-0 , #pg-6688-1 , #pl-6688 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-6688-0 .panel-grid-cell , #pg-6688-1 .panel-grid-cell { float:none } #pl-6688 .panel-grid-cell .so-panel { margin-bottom:30px } #pg-6688-0 { margin-left:-15px;margin-right:-15px } #pg-6688-0 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-6688-0 .panel-grid-cell , #pg-6688-1 .panel-grid-cell " />
+<meta name="twitter:title" content="M.Tech - Communication Systems - New Horizon College of Engineering" />
+<meta name="twitter:image" content="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/Civil-engineering-banner.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="New Horizon College of Engineering &raquo; Feed" href="http://newhorizonindia.edu/nhengineering/feed/" />
+<link rel="alternate" type="application/rss+xml" title="New Horizon College of Engineering &raquo; Comments Feed" href="http://newhorizonindia.edu/nhengineering/comments/feed/" />
+<link rel='stylesheet' id='pt-cv-public-style-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=1.9.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-news-ticker-font-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/ditty-news-ticker/assets/fontastic/styles.css?ver=2.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-news-ticker-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/ditty-news-ticker/assets/css/style.css?ver=2.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='iphorm-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/css/styles.css?ver=1.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='qtip-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/qtip2/jquery.qtip.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='iphorm-fancybox-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='iphorm-uniform-theme-1-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/uniform/themes/default/default.css?ver=1.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='iphorm-theme-6-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/themes/react/default.css?ver=1.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='iphorm-theme-8-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/themes/light/rounded.css?ver=1.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='learn-press-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/learnpress/assets/css/learnpress.css?ver=1.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/page-list/css/page-list.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.rev_slider .slotholder:after{width:100%;  height:100%;  content:"";  position:absolute;  left:0;  top:0;  pointer-events:none}
+</style>
+<link rel='stylesheet' id='cssnews-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/sp-news-and-widget/css/stylenews.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='awesome-admin-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/tf-numbers-number-counter-animaton/assets/css/font-awesome.min.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tf_numbers-style-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/tf-numbers-number-counter-animaton/assets/css/style.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-awesome-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/thim-framework/css/font-awesome.min.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-css-style-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/themes/eduma/assets/css/custom-style.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-style-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/themes/eduma/style.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-google-webfont-roboto-css'  href='//fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2C400%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;subset=greek-ext%2Cgreek%2Ccyrillic-ext%2Clatin-ext%2Clatin%2Cvietnamese%2Ccyrillic&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-google-webfont-open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C400%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;subset=greek-ext%2Cgreek%2Ccyrillic-ext%2Clatin-ext%2Clatin%2Cvietnamese%2Ccyrillic&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-google-webfont-roboto-slab-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab%3A100%2C300%2C400%2C700&#038;subset=greek-ext%2Cgreek%2Ccyrillic-ext%2Clatin-ext%2Clatin%2Cvietnamese%2Ccyrillic&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='styles-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/css/supercarousel.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='lightGalleryStyles-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/css/lightGallery.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='http://newhorizonindia.edu/nhengineering?sccss=1&#038;ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-slider-default-49470b0f4e3a-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/uploads/siteorigin-widgets/sow-slider-default-49470b0f4e3a.css?ver=4.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-slider-slider-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/so-widgets-bundle/css/slider/slider.css?ver=1.6' type='text/css' media='all' />
+<script type="text/javascript">var LearnPress_Settings = {"ajax":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-content\/plugins\/learnpress\/","siteurl":"http:\/\/newhorizonindia.edu\/nhengineering","current_url":"http:\/\/newhorizonindia.edu\/nhengineering\/mtech-courses\/m-tech-communication-systems\/","localize":{"button_ok":"OK","button_cancel":"Cancel","button_yes":"Yes","button_no":"No"}}</script><script type="text/javascript">
+        var ajax_url ="http://newhorizonindia.edu/nhengineering/wp-admin/admin-ajax.php";
+        </script><script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/iphorm.js?ver=1.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/nhengineering\/","uid":"0","time":"1525968308","secure":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/utils.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.4.1'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.4.1'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/sp-news-and-widget/js/jquery.newstape.js?ver=3.3'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.min.js?ver=1.6'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/so-widgets-bundle/js/slider/jquery.slider.min.js?ver=1.6'></script>
+<link rel='https://api.w.org/' href='http://newhorizonindia.edu/nhengineering/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://newhorizonindia.edu/nhengineering/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://newhorizonindia.edu/nhengineering/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.14" />
+<link rel='shortlink' href='http://newhorizonindia.edu/nhengineering/?p=6688' />
+<link rel="alternate" type="application/json+oembed" href="http://newhorizonindia.edu/nhengineering/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnewhorizonindia.edu%2Fnhengineering%2Fmtech-courses%2Fm-tech-communication-systems%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://newhorizonindia.edu/nhengineering/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnewhorizonindia.edu%2Fnhengineering%2Fmtech-courses%2Fm-tech-communication-systems%2F&#038;format=xml" />
+<meta name="generator" content="Powered by Slider Revolution 5.2.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css" media="all" id="siteorigin-panels-grids-wp_head">/* Layout 6688 */ #pg-6688-0 , #pg-6688-1 , #pl-6688 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-6688-0 .panel-grid-cell , #pg-6688-1 .panel-grid-cell { float:none } #pl-6688 .panel-grid-cell .so-panel { margin-bottom:30px } #pg-6688-0 { margin-left:-15px;margin-right:-15px } #pg-6688-0 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-6688-0 .panel-grid-cell , #pg-6688-1 .panel-grid-cell { float:none;width:auto } #pl-6688 .panel-grid { margin-left:0;margin-right:0 } #pl-6688 .panel-grid-cell { padding:0 }  } </style><link rel="icon" href="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/07/Latter-Head-75x75.png" sizes="32x32" />
+<link rel="icon" href="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/07/Latter-Head.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/07/Latter-Head.png" />
+<meta name="msapplication-TileImage" content="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/07/Latter-Head.png" />
+	<script type="text/javascript">
+		if (typeof ajaxurl === 'undefined') {
+			/* <![CDATA[ */
+			var ajaxurl = "http://newhorizonindia.edu/nhengineering/wp-admin/admin-ajax.php";
+			/* ]]> */
+		}
+	</script>
+		<style id="pum-styles" type="text/css">
+	/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');
+
+/* Popup Theme 6090: Framed Border */
+.pum-theme-6090, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.5 ) } 
+.pum-theme-6090 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1 ) } 
+.pum-theme-6090 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-6090 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-6090 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+/* Popup Theme 6089: Cutting Edge */
+.pum-theme-6089, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.5 ) } 
+.pum-theme-6089 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 30, 115, 190, 1 ) } 
+.pum-theme-6089 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-6089 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-6089 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.1 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.1 ); background-color: rgba( 238, 238, 34, 1 ) } 
+/* Popup Theme 6088: Hello Box */
+.pum-theme-6088, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-6088 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 0px; border: 0px solid ; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-6088 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-6088 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-6088 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
+/* Popup Theme 6087: Enterprise Blue */
+.pum-theme-6087, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.7 ) } 
+.pum-theme-6087 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-6087 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-6087 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-6087 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1 ) } 
+/* Popup Theme 6086: Light Box */
+.pum-theme-6086, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.6 ) } 
+.pum-theme-6086 .pum-container, .pum-theme-lightbox .pum-container { padding: 30px; border-radius: 3px; border: 8px none #000000; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 1 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-6086 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-6086 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-6086 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1 ) } 
+/* Popup Theme 6085: Default Theme */
+.pum-theme-6085, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-6085 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.pum-theme-6085 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-6085 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.pum-theme-6085 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+
+	
+		</style>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91767046-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8TQR94');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="lh_TDezxYwkAHF7DJOReEYXk7zpm9ClRLqa2O0-VUjE" />
+
+</head>
+
+
+
+<body class="page page-id-6688 page-child parent-pageid-6925 page-template-default siteorigin-panels">
+
+
+	<!--<div id="preload">
+
+		<div class="cssload-loader">
+
+			<div class="cssload-inner cssload-one"></div>
+
+			<div class="cssload-inner cssload-two"></div>
+
+			<div class="cssload-inner cssload-three"></div>
+
+		</div>
+
+	</div>-->
+
+<?//php } ?>
+
+
+
+<!-- menu for mobile-->
+
+<div id="wrapper-container" class="wrapper-container">
+
+	<div class="content-pusher ">
+
+
+
+
+
+		
+
+
+		<header id="masthead" class="site-header affix-top sticky-header header_default header_v2" >
+
+			<!-- <div class="main-menu"> -->
+<div class="container">
+	<div class="row">
+		<div class="navigation col-sm-12">
+<div class="top-right-menu"><a href="http://newhorizonindia.edu/nhengineering/feedback_suggestion/"> Feedback / Suggestions </a></div>
+			<div class="tm-table">
+            
+				<div class="width-logo table-cell sm-logo">
+					<a href="http://newhorizonindia.edu/nhengineering/" title="New Horizon College of Engineering - In Pursuit of Excellence" rel="home" class="no-sticky-logo"><img src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2018/01/logooflogocopy1dd.png" alt="New Horizon College of Engineering" width="482" height="109" /></a><a href="http://newhorizonindia.edu/nhengineering/" title="New Horizon College of Engineering - In Pursuit of Excellence" rel="home" class="sticky-logo">
+					<img src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2018/01/logooflogocopy1dd.png" alt="New Horizon College of Engineering" width="482" height="109" /></a>				</div>
+				<nav class="header-top-menu table-cell table-right">
+									</nav>
+				<div class="menu-mobile-effect navbar-toggle" data-effect="mobile-effect">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</div>
+			</div>
+			<nav class="width-navigation">
+				
+<ul class="nav navbar-nav menu-main-menu">
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Home">Home</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://newhorizonindia.edu/nhengineering">NHCE Home</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/">NHEI Home</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Governance">Governance</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/principals-message/">Principal&#8217;s Message</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/dean-academics-message/">Dean Academics Message</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/national-advisory-board/">National Advisory Board</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/academic-council/">Academic Council</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/governing-council/">Governing Council</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/statutory-committee/">Statutory Committee</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/accreditation-affiliation/">Accreditation / Affiliation</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/key-executives/"><span data-hover="Key Executives">Key Executives</span></a></li>
+<li  class="drop_to_right multicolumn menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Departments">Departments</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/automobile-engineering/">Automobile Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/bsh/">Basic Sciences &#038; Humanities</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/bio-technology/">Biotechnology</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-civil-engineering/">Civil Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-computer-science-engineering/">Computer Science &#038; Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-electrical-and-electronics-engineering/">Electrical &#038; Electronics Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-electronics-and-communication-engineering/">Electronics &#038; Communication Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/information-science-engineering/">Information Science &#038; Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/mechanical-engineering/">Mechanical Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/mca/">Master of Computer Applications (MCA)</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/mba/">Master of Business Administration (MBA)</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/centre-for-life-skills-and-lifelong-learning/">Centre for LifeSkills and Lifelong Learning</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Admission">Admission</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/btech-mtech-courses/">Undergraduate</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor"><a href="http://newhorizonindia.edu/nhengineering/mtech-courses/">Postgraduate</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/phd-msc-engg-research/">PhD and MSc (Engg.)</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/scholarship/">Scholarship</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/study-abroad-program/">Study Abroad Programme</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/industry-institute-interaction/"><span data-hover="Industry Sponsored Labs">Industry Sponsored Labs</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a><span data-hover="Campus Life">Campus Life</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/library-new/">Library</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/infrastructure/">Infrastructure</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/cafeteria/">Cafeteria</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/hostels/">Hostels</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/ragging-free-campus-2/">Ragging Free Campus</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/celebrity-diaries/">Celebrities @ NHCE</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://newhorizonindia.edu/nhengineering/alumni/"><span data-hover="Alumni">Alumni</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a target="_blank" href="http://newhorizonindia.edu/sargam/"><span data-hover="Sargam Fest">Sargam Fest</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/about-sargam-fest/">About Sargam Fest</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://newhorizonindia.edu/sargam/">Sargam Fest 2017</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/sargam/">Sargam Fest 2016</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/sargampre/sargam-2015.html">Sargam Fest 2015</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/sargampre/sargam-2014.html">Sargam Fest 2014</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://newhorizonindia.edu/nhengineering/nhce-sports/"><span data-hover="Sports">Sports</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://newhorizonindia.edu/nhengineering/contact-new/"><span data-hover="Contact Us">Contact Us</span></a></li>
+</ul>
+<!--</div>-->			</nav>
+			<!--end .row-->
+		</div>
+	</div>
+</div>
+
+		</header>
+
+		<!-- Mobile Menu-->
+
+		<nav class="mobile-menu-container mobile-effect">
+
+			<ul class="nav navbar-nav">
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Home">Home</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://newhorizonindia.edu/nhengineering">NHCE Home</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/">NHEI Home</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Governance">Governance</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/principals-message/">Principal&#8217;s Message</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/dean-academics-message/">Dean Academics Message</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/national-advisory-board/">National Advisory Board</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/academic-council/">Academic Council</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/governing-council/">Governing Council</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/statutory-committee/">Statutory Committee</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/accreditation-affiliation/">Accreditation / Affiliation</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/key-executives/"><span data-hover="Key Executives">Key Executives</span></a></li>
+<li  class="drop_to_right multicolumn menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Departments">Departments</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/automobile-engineering/">Automobile Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/bsh/">Basic Sciences &#038; Humanities</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/bio-technology/">Biotechnology</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-civil-engineering/">Civil Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-computer-science-engineering/">Computer Science &#038; Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-electrical-and-electronics-engineering/">Electrical &#038; Electronics Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/department-of-electronics-and-communication-engineering/">Electronics &#038; Communication Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/information-science-engineering/">Information Science &#038; Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/mechanical-engineering/">Mechanical Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/mca/">Master of Computer Applications (MCA)</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/mba/">Master of Business Administration (MBA)</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/centre-for-life-skills-and-lifelong-learning/">Centre for LifeSkills and Lifelong Learning</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a href="#"><span data-hover="Admission">Admission</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/btech-mtech-courses/">Undergraduate</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor"><a href="http://newhorizonindia.edu/nhengineering/mtech-courses/">Postgraduate</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/phd-msc-engg-research/">PhD and MSc (Engg.)</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/scholarship/">Scholarship</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/study-abroad-program/">Study Abroad Programme</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/industry-institute-interaction/"><span data-hover="Industry Sponsored Labs">Industry Sponsored Labs</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a><span data-hover="Campus Life">Campus Life</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/library-new/">Library</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/infrastructure/">Infrastructure</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/cafeteria/">Cafeteria</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/hostels/">Hostels</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/ragging-free-campus-2/">Ragging Free Campus</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/celebrity-diaries/">Celebrities @ NHCE</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://newhorizonindia.edu/nhengineering/alumni/"><span data-hover="Alumni">Alumni</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children standard"><a target="_blank" href="http://newhorizonindia.edu/sargam/"><span data-hover="Sargam Fest">Sargam Fest</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://newhorizonindia.edu/nhengineering/about-sargam-fest/">About Sargam Fest</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://newhorizonindia.edu/sargam/">Sargam Fest 2017</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/nhengineering/sargam/">Sargam Fest 2016</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/sargampre/sargam-2015.html">Sargam Fest 2015</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://newhorizonindia.edu/sargampre/sargam-2014.html">Sargam Fest 2014</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://newhorizonindia.edu/nhengineering/nhce-sports/"><span data-hover="Sports">Sports</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://newhorizonindia.edu/nhengineering/contact-new/"><span data-hover="Contact Us">Contact Us</span></a></li>
+</ul>
+		</nav>
+
+		<div id="main-content">	<section class="content-area">
+			<div class="top_site_main" style="color: #ffffff;background-color: #b6c242;">
+				<div class="page-title-wrapper">
+			<div class="banner-wrapper container">
+				<h1>M.Tech &#8211; Communication Systems</h1>			</div>
+		</div>
+	</div>
+
+
+
+		<div class="breadcrumbs-wrapper">
+			<div class="container">
+				<ul itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" id="breadcrumbs" class="breadcrumbs"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://newhorizonindia.edu/nhengineering" title="Home"><span itemprop="name">Home</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://newhorizonindia.edu/nhengineering/mtech-courses/" title="Postgraduate"><span itemprop="name">Postgraduate</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name" title="M.Tech &#8211; Communication Systems"> M.Tech &#8211; Communication Systems</span></li></ul>			</div>
+		</div>
+	<div class="container site-content sidebar-right"><div class="row"><main id="main" class="site-main col-sm-9 alignleft">
+
+    
+<article id="post-6688" class="post-6688 page type-page status-publish has-post-thumbnail hentry">
+    <div class="entry-content">
+        <div id="pl-6688"><div class="panel-grid" id="pg-6688-0" ><div style="padding: 0px;" class="panel-row-style" ><div class="panel-grid-cell" id="pgc-6688-0-0" ><div class="so-panel widget widget_sow-slider panel-first-child" id="panel-6688-0-0-0" data-index="0"><div class="so-widget-sow-slider so-widget-sow-slider-default-49470b0f4e3a"><div class="sow-slider-base " style="display: none"><ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:900,&quot;timeout&quot;:1000,&quot;swipe&quot;:true}">		<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img1.jpg)" >
+						<div class="sow-slider-image-container">
+				<div class="sow-slider-image-wrapper" style="max-width: 1920px">
+					<img width="1920" height="800" src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img1.jpg" class="attachment-full size-full" alt="B Tech Colleges In Bangalore" srcset="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img1.jpg 1920w, http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img1-300x125.jpg 300w, http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img1-768x320.jpg 768w, http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img1-1024x427.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />				</div>
+			</div>
+					</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img2.jpg)" >
+						<div class="sow-slider-image-container">
+				<div class="sow-slider-image-wrapper" style="max-width: 1920px">
+					<img width="1920" height="800" src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img2.jpg" class="attachment-full size-full" alt="B Tech Colleges In Bangalore" srcset="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img2.jpg 1920w, http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img2-300x125.jpg 300w, http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img2-768x320.jpg 768w, http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/06/pg-b-Communication-Syst-img2-1024x427.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />				</div>
+			</div>
+					</li>
+		</ul>				<ol class="sow-slider-pagination">
+											<li><a href="#" data-goto="0">1</a></li>
+											<li><a href="#" data-goto="1">2</a></li>
+									</ol>
+
+				<div class="sow-slide-nav sow-slide-nav-next">
+					<a href="#" data-goto="next" data-action="next">
+						<em class="sow-sld-icon-medium-right"></em>
+					</a>
+				</div>
+
+				<div class="sow-slide-nav sow-slide-nav-prev">
+					<a href="#" data-goto="previous" data-action="prev">
+						<em class="sow-sld-icon-medium-left"></em>
+					</a>
+				</div>
+				</div></div></div><div class="so-panel widget widget_tab" id="panel-6688-0-0-1" data-index="1"><div class="nhce-courses-tab civil-c-p responsive-tabs panel-widget-style" ><div class="thim-widget-tab thim-widget-tab-base"><ul class="nav nav-tabs" role="tablist"><li role="presentation" class='active'><a href="#thim-widget-tab-11525968309-1-5"  role="tab" data-toggle="tab">About</a></li><li role="presentation" ><a href="#thim-widget-tab-21525968309-1-5"  role="tab" data-toggle="tab">Program Contents</a></li></ul><div class="tab-content"> <div role="tabpanel" class="tab-pane active" id="thim-widget-tab-11525968309-1-5"><div style="text-align:justify">
+
+The Department of Electronics and Communication Engineering at NHCE offers two year autonomous M.Tech courses in: VLSI Design and Embedded Systems(VLSI and ES), and Communication Systems (CMS).
+<br>
+Electronics and Communication Engineering is a pioneering branch amongst all the Engineering branches. Application of electronics in the field of communication, along with miniaturization upto the nano scale, makes us lead a comfortable life. This branch strongly emphasizes on fundamentals as well as analysis, to make students creative and to understand the latest technologies. The future of this branch is filled with boundless innovation and limitless opportunities in India and Abroad.<br>
+<br>
+<strong>Vision</strong>
+<br><br>
+To create high quality engineering professionals who can transform society and earn global reputation.
+<br><br>
+<strong>Mission</strong>
+<br><br>
+To impart high quality engineering education and guide human resources to accumulate, internalize, apply, research, create and share technical knowledge, with integrity and positive attitude.
+<br><br>
+<strong>PROGRAMS OFFERED</strong>
+<br><br>
+<strong><u>M.Tech-CMS</u></strong>
+<br>
+The Department of Electronics &amp; Communication Engineering offers M.Tech in Communication Systems, Autonomous and Affiliated to VTU.
+<br>
+<u>Objectives &amp; Activities:</u><br>
+<ul>
+<ul>
+	<li>To create competent professionals in Wireless Technology and other communication fields catering to enormous national needs.</li>
+	<li>To provide, through the course and field work, the perspectives and the necessary skills to the students, for the resource – based technology planning and implementation.</li>
+	<li>To train the students for academics as well as research, and analysis oriented careers, by developing competence in the usage of quantitative and qualitative methods in the particular domain.</li>
+</ul>
+</ul>
+<u>Career Scope:</u><br>
+
+In the last two decades, our country has witnessed significant changes in several spheres in an increasingly rapid speed. The economic reforms and the policies of liberalization, globalization and privatization have resulted in the momentous changes in perspectives. Policies &amp; practices pertaining to technology, development and the inter relationship between the two. Several leading Global consultancies estimate that India will become world’s largest market for Telecommunications. The Industry is expected to have an yearly growth rate of 26%. Telecommunication sector creates enormous employment opportunity. To address the challenges posed by these changes, we are offering a Masters program in Communication systems.
+<br>
+<u>Overview</u><u>: </u><br>
+<ul>
+<ul>
+	<li>Advanced Digital Communication</li>
+	<li>Antenna Theory and Design</li>
+	<li>Error Control Coding</li>
+	<li>Optical Communication in Networking</li>
+	<li>RF &amp; Microwave Circuit Design</li>
+	<li>Multimedia Communication</li>
+	<li>Radar Systems</li>
+	<li>Wireless Communication</li>
+	<li>Broadband Wireless Networks</li>
+	<li>Cryptography and Network Security</li>
+</ul>
+</ul>
+</div></div> <div role="tabpanel" class="tab-pane" id="thim-widget-tab-21525968309-1-5"><strong><u>M.Tech- CMS</u></strong>
+<br>
+<strong>CREDIT SCHEME FOR FIRST SEMESTER M.TECH COMMUNICATION SYSTEMS</strong>
+<table>
+<tbody>
+<tr>
+<td rowspan="2"><strong> </strong>
+
+<strong> </strong>
+
+<strong>S.No</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>Course</strong>
+
+<strong>Code</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>Course</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>BoS</strong></td>
+<td colspan="4"><strong>Credit</strong>
+
+<strong>Distribution</strong></td>
+<td rowspan="2" width="38"><strong> </strong>
+
+<strong>Overall</strong>
+
+<strong>Credits</strong></td>
+<td colspan="3"><strong>Marks</strong></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>P</strong></td>
+<td><strong>T</strong></td>
+<td><strong>S</strong></td>
+<td><strong>CIE</strong></td>
+<td><strong>SEE</strong></td>
+<td><strong>TOTAL</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>15ECE11</td>
+<td>Applied Mathematics</td>
+<td>SCI</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td width="38">4</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2</td>
+<td>15CMS12</td>
+<td>Antenna Theory and Design</td>
+<td>ECE</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td width="38">5</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>3</td>
+<td>15CMS13</td>
+<td>Advanced Digital Communication</td>
+<td>ECE</td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td width="38">5</td>
+<td>75</td>
+<td>75</td>
+<td>150</td>
+</tr>
+<tr>
+<td>4</td>
+<td>15CMS14x</td>
+<td>Specialization Elective-1</td>
+<td>ECE</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td width="38">5</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>5</td>
+<td>15NHG15x</td>
+<td>Global Elective-1</td>
+<td>ECE</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td width="38">4</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>6</td>
+<td>15CMS16</td>
+<td>Seminar</td>
+<td>ECE</td>
+<td colspan="4">&nbsp;</td>
+<td width="38">2</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="8"><strong>Total</strong></td>
+<td width="38"><strong>25</strong></td>
+<td><strong>325</strong></td>
+<td><strong>325</strong></td>
+<td><strong>650</strong></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table width="627">
+<tbody>
+<tr>
+<td colspan="6" width="627"><strong>Specialization  Electives – 1</strong></td>
+</tr>
+<tr>
+<td width="47"><strong>S.No</strong></td>
+<td width="92"><strong>Course Code</strong></td>
+<td width="182"><strong>Course</strong></td>
+<td width="54"><strong>S.No</strong></td>
+<td width="94"><strong>Course Code</strong></td>
+<td width="157"><strong>Course</strong></td>
+</tr>
+<tr>
+<td width="47">1</td>
+<td width="92">15CMS141</td>
+<td width="182">Wireless &amp; Mobile Networks</td>
+<td width="54">3</td>
+<td width="94">15CMS143</td>
+<td width="157">Network Routing Algorithms</td>
+</tr>
+<tr>
+<td width="47">2</td>
+<td width="92">15CMS142</td>
+<td width="182">Cryptography &amp; Network Security</td>
+<td width="54">4</td>
+<td width="94">15CMS144</td>
+<td width="157">Multimedia Communication</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+<strong>CREDIT SCHEME FOR SECOND SEMESTER M.TECH COMMUNICATION SYSTEMS</strong>
+<table width="679">
+<tbody>
+<tr>
+<td rowspan="2" width="48"><strong> </strong>
+
+<strong> </strong>
+
+<strong>S.No</strong></td>
+<td rowspan="2" width="91"><strong> </strong>
+
+<strong>Course</strong>
+
+<strong>Code</strong></td>
+<td rowspan="2" width="132"><strong> </strong>
+
+<strong>Course</strong></td>
+<td rowspan="2" width="48"><strong> </strong>
+
+<strong>BoS</strong></td>
+<td colspan="4" width="138"><strong>Credit</strong>
+
+<strong>Distribution</strong></td>
+<td rowspan="2" width="70"><strong> </strong>
+
+<strong>Overall</strong>
+
+<strong>Credits</strong></td>
+<td colspan="3" width="152"><strong>Marks </strong></td>
+</tr>
+<tr>
+<td width="36"><strong>L</strong></td>
+<td width="36"><strong>P</strong></td>
+<td width="36"><strong>T</strong></td>
+<td width="30"><strong>S</strong></td>
+<td width="47"><strong>CIE</strong></td>
+<td width="45"><strong>SEE</strong></td>
+<td width="60"><strong>Total </strong></td>
+</tr>
+<tr>
+<td width="48">1</td>
+<td width="91">15CMS21</td>
+<td width="132">Advanced Wireless Communication</td>
+<td width="48">ECE</td>
+<td width="36">4</td>
+<td width="36">0</td>
+<td width="36">0</td>
+<td width="30">0</td>
+<td width="70">4</td>
+<td width="47">50</td>
+<td width="45">50</td>
+<td width="60">100</td>
+</tr>
+<tr>
+<td width="48">2</td>
+<td width="91">15CMS22</td>
+<td width="132">Modern DSP</td>
+<td width="48">ECE</td>
+<td width="36">4</td>
+<td width="36">1</td>
+<td width="36">0</td>
+<td width="30">0</td>
+<td width="70">5</td>
+<td width="47">75</td>
+<td width="45">75</td>
+<td width="60">150</td>
+</tr>
+<tr>
+<td width="48">3</td>
+<td width="91">15CMS23</td>
+<td width="132">Optical Communication &amp; Networking</td>
+<td width="48">ECE</td>
+<td width="36">4</td>
+<td width="36">0</td>
+<td width="36">1</td>
+<td width="30">0</td>
+<td width="70">5</td>
+<td width="47">50</td>
+<td width="45">50</td>
+<td width="60">100</td>
+</tr>
+<tr>
+<td width="48">4</td>
+<td width="91">15CMS24x</td>
+<td width="132">Specialization Elective-2</td>
+<td width="48">ECE</td>
+<td width="36">4</td>
+<td width="36">0</td>
+<td width="36">0</td>
+<td width="30">1</td>
+<td width="70">5</td>
+<td width="47">50</td>
+<td width="45">50</td>
+<td width="60">100</td>
+</tr>
+<tr>
+<td width="48">5</td>
+<td width="91">15NHG25x</td>
+<td width="132">Global Elective-2</td>
+<td width="48">ECE</td>
+<td width="36">3</td>
+<td width="36">0</td>
+<td width="36">0</td>
+<td width="30">1</td>
+<td width="70">4</td>
+<td width="47">50</td>
+<td width="45">50</td>
+<td width="60">100</td>
+</tr>
+<tr>
+<td width="48">6</td>
+<td width="91">15CMS26</td>
+<td width="132">Seminar</td>
+<td width="48">ECE</td>
+<td colspan="4" width="138">&nbsp;</td>
+<td width="70">2</td>
+<td width="47">50</td>
+<td width="45">50</td>
+<td width="60">100</td>
+</tr>
+<tr>
+<td colspan="8" width="457"><strong>Total</strong></td>
+<td width="70"><strong>25</strong></td>
+<td width="47"><strong>325</strong></td>
+<td width="45"><strong>325</strong></td>
+<td width="60"><strong>650</strong></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table width="637">
+<tbody>
+<tr>
+<td colspan="6" width="637"><strong>Specialization  Electives – 2</strong></td>
+</tr>
+<tr>
+<td width="49"><strong>S.No</strong></td>
+<td width="96"><strong>Course Code</strong></td>
+<td width="174"><strong>Course</strong></td>
+<td width="48"><strong>S.No</strong></td>
+<td width="102"><strong>Course Code</strong></td>
+<td width="168"><strong>Course</strong></td>
+</tr>
+<tr>
+<td width="49">1</td>
+<td width="96">15CMS241</td>
+<td width="174">Software Defined Radio</td>
+<td width="48">3</td>
+<td width="102">15CMS243</td>
+<td width="168">RF System Design</td>
+</tr>
+<tr>
+<td width="49">2</td>
+<td width="96">15CMS242</td>
+<td width="174">Spread – Spectrum Communications</td>
+<td width="48">4</td>
+<td width="102">15CMS244</td>
+<td width="168">Wireless Sensor Networks</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+<strong>CREDIT SCHEME FOR THIRD SEMESTER M.TECH COMMUNICATION SYSTEMS</strong>
+<table>
+<tbody>
+<tr>
+<td rowspan="2"><strong> </strong>
+
+<strong> </strong>
+
+<strong>S.No</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>Course</strong>
+
+<strong>Code</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>Course</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>BoS</strong></td>
+<td colspan="4"><strong>Credit</strong>
+
+<strong>Distribution</strong></td>
+<td rowspan="2" width="58"><strong> </strong>
+
+<strong>Overall</strong>
+
+<strong>Credits</strong></td>
+<td colspan="3"><strong>Marks</strong></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>P</strong></td>
+<td><strong>T</strong></td>
+<td><strong>S</strong></td>
+<td><strong>CIE</strong></td>
+<td><strong>SEE</strong></td>
+<td><strong>TOTAL</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>16CMS31x</td>
+<td>Specialization Elective-3</td>
+<td>ECE</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td width="58">5</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2</td>
+<td>16CMS32</td>
+<td>Internship/Mini Project</td>
+<td>ECE</td>
+<td colspan="4">&nbsp;</td>
+<td width="58">15</td>
+<td>150</td>
+<td>150</td>
+<td>300</td>
+</tr>
+<tr>
+<td>3</td>
+<td>16CMS33</td>
+<td>Evaluation of Project Work Phase-I</td>
+<td>ECE</td>
+<td colspan="4">&nbsp;</td>
+<td width="58">5</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="8"><strong>Total</strong></td>
+<td width="58"><strong>25</strong></td>
+<td><strong>250</strong></td>
+<td><strong>250</strong></td>
+<td><strong>500</strong></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table width="627">
+<tbody>
+<tr>
+<td colspan="6" width="627"><strong>Specialization  Electives – 3</strong></td>
+</tr>
+<tr>
+<td width="47"><strong>S.No</strong></td>
+<td width="92"><strong>Course Code</strong></td>
+<td width="182"><strong>Course</strong></td>
+<td width="54"><strong>S.No</strong></td>
+<td width="94"><strong>Course Code</strong></td>
+<td width="157"><strong>Course</strong></td>
+</tr>
+<tr>
+<td width="47">1</td>
+<td width="92">16CMS311</td>
+<td width="182">Error Control Coding</td>
+<td width="54">3</td>
+<td width="94">16CMS313</td>
+<td width="157">Simulation, Modeling and Analysis</td>
+</tr>
+<tr>
+<td width="47">2</td>
+<td width="92">16CMS312</td>
+<td width="182">CMOS RF Circuit Design</td>
+<td width="54">4</td>
+<td width="94">16CMS314</td>
+<td width="157">Nanoelectronics</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+<strong>CREDIT SCHEME FOR FOURTH SEMESTER M.TECH COMMUNICATION SYSTEMS</strong>
+<table>
+<tbody>
+<tr>
+<td rowspan="2"><strong> </strong>
+
+<strong> </strong>
+
+<strong>S.No</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>Course</strong>
+
+<strong>Code</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>Course</strong></td>
+<td rowspan="2"><strong> </strong>
+
+<strong>BoS</strong></td>
+<td colspan="4"><strong>Credit</strong>
+
+<strong>Distribution</strong></td>
+<td rowspan="2" width="58"><strong> </strong>
+
+<strong>Overall</strong>
+
+<strong>Credits</strong></td>
+<td colspan="3"><strong>Marks</strong></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>P</strong></td>
+<td><strong>T</strong></td>
+<td><strong>S</strong></td>
+<td><strong>CIE</strong></td>
+<td><strong>SEE</strong></td>
+<td><strong>TOTAL</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>16CMS41x</td>
+<td>Specialization Elective-4</td>
+<td>ECE</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td width="58">5</td>
+<td>50</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2</td>
+<td>16CMS42</td>
+<td>Project Work</td>
+<td>ECE</td>
+<td colspan="4">&nbsp;</td>
+<td width="58">20</td>
+<td>200</td>
+<td>200</td>
+<td>400</td>
+</tr>
+<tr>
+<td colspan="8"><strong>Total</strong></td>
+<td width="58"><strong>25</strong></td>
+<td><strong>250</strong></td>
+<td><strong>250</strong></td>
+<td><strong>500</strong></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table width="627">
+<tbody>
+<tr>
+<td colspan="6" width="627"><strong>Specialization  Electives – 4</strong></td>
+</tr>
+<tr>
+<td width="47"><strong>S.No</strong></td>
+<td width="92"><strong>Course Code</strong></td>
+<td width="182"><strong>Course</strong></td>
+<td width="54"><strong>S.No</strong></td>
+<td width="94"><strong>Course Code</strong></td>
+<td width="157"><strong>Course</strong></td>
+</tr>
+<tr>
+<td width="47">1</td>
+<td width="92">16CMS411</td>
+<td width="182">Internet of Things</td>
+<td width="54">3</td>
+<td width="94">16CMS413</td>
+<td width="157">Statistical Signal Processing</td>
+</tr>
+<tr>
+<td width="47">2</td>
+<td width="92">16CMS412</td>
+<td width="182">RF MEMS</td>
+<td width="54">4</td>
+<td width="94">16CMS414</td>
+<td width="157">Radar Systems</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+&nbsp;</div></div></div></div></div><div class="so-panel widget widget_empty-space panel-last-child" id="panel-6688-0-0-2" data-index="2"><div class="thim-widget-empty-space thim-widget-empty-space-base"><div class="empty_space" style="height:40px"></div></div></div></div></div></div><div class="panel-grid" id="pg-6688-1" ><div class="panel-row-style-ug-courses ug-courses panel-row-style" style="margin-top: -50px;padding: 0px;" ><div class="panel-grid-cell" id="pgc-6688-1-0" ><div class="so-panel widget widget_heading panel-first-child" id="panel-6688-1-0-0" data-index="3"><div class="no-padd-top-title panel-widget-style" style="padding: 0px;" ><div class="thim-widget-heading thim-widget-heading-base"><div class="sc_heading text-center"><h3 class="title">Explore PG Courses</h3><span class="line"></span></div></div></div></div><div class="so-panel widget widget_supercarousel_widget panel-last-child" id="panel-6688-1-0-1" data-index="4"><div style="padding: 0px;" class="panel-widget-style" >
+<script>
+    jQuery(document).ready(function () {
+        var opt = {};
+opt['source'] = 'content:53';opt['contentoption'] = '';opt['contentlink'] = '';opt['contenttitle'] = '';opt['contentexcerptrm'] = '';opt['contenttemplate'] = 'tt';opt['superids'] = '5868,5878,5879,5880';opt['visible'] = 4;opt['itemWidth'] = '';opt['itemHeight'] = '';opt['mobileVisible'] = 1;opt['mobileWidth'] = 480;opt['tabletVisible'] = 2;opt['tabletWidth'] = 768;opt['direction'] = 'left';opt['effect'] = 'slide';opt['easing'] = 'swing';opt['easingTime'] = 1200;opt['step'] = 1;opt['auto'] = 1;opt['pauseTime'] = 2000;opt['pauseOver'] = 1;opt['autoHeight'] = '';opt['slideGap'] = 4;opt['nextPrev'] = 1;opt['paging'] = '';opt['circular'] = '';opt['mouseWheel'] = '';opt['swipe'] = 1;opt['keys'] = 1;opt['superrandom'] = '';opt['smallbut'] = '';opt['navpadding'] = 1;opt['navstyle'] = 'style2-white';opt['customclass'] = 'nav-course';opt['autoscroll'] = '';opt['scrollspeed'] = 0.25;opt['superhidden'] = '';opt['mobileItemWidth'] = '';opt['mobileItemHeight'] = '';opt['tabletItemWidth'] = '';opt['tabletItemHeight'] = '';opt['imageSize'] = 'full';opt['caption'] = 'always';opt['slideHover'] = 'disable';opt['next'] = '#next573296';opt['prev'] = '#prev573296';opt['type'] = 'content';
+        if (jQuery("#supercarousel573296").find(">div").length == 0) {
+            jQuery("#supercrsl573296").hide();
+            return;
+        }
+        //jQuery().framerate();
+        jQuery.fx.interval = 1;
+        var scarousel573296 = jQuery("#supercarousel573296").supercarousel(opt);
+    });
+</script>
+
+<div id="supercrsl573296" class="supercrsl pdgwnav">
+    <div class="supercarousel supercaptionalways" id="supercarousel573296">
+        
+            <div>
+                <div class="supercontentdata"><div class="w100"><div class="bg-grey-light"><p><a href="http://newhorizonindia.edu/nhengineering/pg-courses/m-tech-computer-science-engineering"><img class=" aligncenter img-responsive" src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/05/PG-Mtech-CSC-Eng.jpg" alt="M.Tech - Computer Science & Engineering"/>
+<span class="course-p">M.Tech - Computer Science & <br>
+Engineering</span></a></p></div></div></div>
+            </div>
+            
+            <div>
+                <div class="supercontentdata"><div class="w100"><div class="bg-grey-light"><p><a href="http://newhorizonindia.edu/nhengineering/pg-courses/m-tech-machine-design"><img class=" aligncenter img-responsive" src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/05/PG-Machine-Design.jpg" alt="M.Tech -  Machine Design"/>
+<span class="course-p">M.Tech - <br>
+ Machine Design</span></a></p></div></div></div>
+            </div>
+            
+            <div>
+                <div class="supercontentdata"><div class="w100"><div class="bg-grey-light"><p><a href="http://newhorizonindia.edu/nhengineering/mba/"><img class=" aligncenter img-responsive" src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/05/PG-MBA.jpg" alt="Master of Business Administration (MBA)"/><span class="course-p">Master of Business <br>
+Administration (MBA)</span></a></p></div></div></div>
+            </div>
+            
+            <div>
+                <div class="supercontentdata"><div class="w100"><div class="bg-grey-light"><p><a href="http://newhorizonindia.edu/nhengineering/mca/"><img class=" aligncenter img-responsive" src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/05/PG-MCA.jpg" alt="Master Of Computer 
+ Applications (MCA)"/>
+<span class="course-p">Master Of Computer <br>
+ Applications (MCA)</span></a></p></div></div></div>
+            </div>
+            
+    </div><div class="clear"></div>
+    
+        <a class="prev superprev style2-white nav-course" id="prev573296" href="#"><span>prev</span></a>
+        <a class="next supernext style2-white nav-course" id="next573296" href="#"><span>next</span></a>
+        
+    <div class="pagination" id="pag573296"></div>
+</div></div></div></div></div></div></div>            </div><!-- .entry-content -->
+
+</article><!-- #post-## -->
+
+    
+</main>
+<div id="sidebar" class="widget-area col-sm-3 sticky-sidebar" role="complementary">
+	<aside id="black-studio-tinymce-3" class="widget widget_black_studio_tinymce"><div class="textwidget"><h4 class="widget-title">GET SOCIAL</h4>
+<div class="sidebar-social">
+<a href="https://www.facebook.com/newhorizoncollegeofengineering.bangalore/" target="$_blank"><img src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/07/facebook.png" alt="Newhorizon india Facebook"/></a><br />
+<a href="https://www.youtube.com/channel/UCntlJ_4ayW73u4K5rpUlmhg" target="$_blank"><img src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/07/youtube.png" alt="Newhorizon india Youtube"/></a><br />
+<a href="https://twitter.com/tweet_nhce" target="$_blank"><img src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/07/twitter.png" alt="Newhorizon india twitter" data-pin-nopin="true"></a><br />
+<a href="https://www.instagram.com/newhorizon.official/" target="$_blank"><img src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2016/07/instagram.png" alt="Newhorizon india Instragram"></a>
+</div>
+</div></aside></div><!-- #secondary -->
+</div></div>	</section>
+<footer id="colophon" class="site-footer">
+			<div class="footer">
+			<div class="container">
+				<div class="row">
+					<aside id="siteorigin-panels-builder-9" class="widget widget_siteorigin-panels-builder footer_widget"><div id="pl-w5a5dc6e26bc10"><style scoped>#pgc-w5a5dc6e26bc10-0-0 , #pgc-w5a5dc6e26bc10-0-1 , #pgc-w5a5dc6e26bc10-0-2 { width:33.333% } #pg-w5a5dc6e26bc10-0 .panel-grid-cell { float:left } #pl-w5a5dc6e26bc10 .panel-grid-cell .so-panel { margin-bottom:30px } #pl-w5a5dc6e26bc10 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-w5a5dc6e26bc10-0 { margin-left:-15px;margin-right:-15px } #pg-w5a5dc6e26bc10-0 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-w5a5dc6e26bc10-0 .panel-grid-cell { float:none;width:auto } #pgc-w5a5dc6e26bc10-0-0 , #pgc-w5a5dc6e26bc10-0-1 { margin-bottom:30px } #pl-w5a5dc6e26bc10 .panel-grid { margin-left:0;margin-right:0 } #pl-w5a5dc6e26bc10 .panel-grid-cell { padding:0 }  } </style><div class="panel-grid" id="pg-w5a5dc6e26bc10-0" ><div class="panel-grid-cell" id="pgc-w5a5dc6e26bc10-0-0" ><div class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" id="panel-w5a5dc6e26bc10-0-0-0" data-index="0"><div class="textwidget"><div class="thim-footer-location">
+<p><img class="alignnone size-full wp-image-10" src="http://newhorizonindia.edu/nhengineering/wp-content/uploads/2018/01/logooflogocopy1dd.png" alt="New Horizon College of Engineering" width="350" /></p>
+<p class="info" align="justify">New Horizon College of Engineering is an Autonomous College affiliated to Visvesvaraya Technological University(VTU), approved by All India Council for Technical Education(AICTE) & University Grants Commission(UGC). It is an ISO 9001:2008 certified Institution. NHCE has been accredited by NAAC with 'A' GRADE & National Board of Accreditation (NBA).</p>
+</div>
+</div></div></div><div class="panel-grid-cell" id="pgc-w5a5dc6e26bc10-0-1" ><div class="so-panel widget widget_shortcodes-ultimate shortcodes-ultimate panel-first-child panel-last-child" id="panel-w5a5dc6e26bc10-0-1-0" data-index="1"><div class="textwidget"><h3 style="color: #273373 !important;" class="widget-title">QUICK LINKS</h3>
+<div class="su-row hu">
+<div class="su-column su-column-size-1-2 footer-menu-column"><div class="su-column-inner su-clearfix"><ul id="menu-footer-menu" class="menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/"><span data-hover="Home">Home</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/placements/"><span data-hover="Placements">Placements</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/accolades/"><span data-hover="Accolades">Accolades</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://apps.indianbank.in/nhce/"><span data-hover="Online Payment">Online Payment</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="https://mail.newhorizonindia.edu/SOGo/"><span data-hover="Web Mail">Web Mail</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/blog/"><span data-hover="Blogs">Blogs</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="https://www.indiahackathon.in/"><span data-hover="S.V. Hackathon">S.V. Hackathon</span></a></li>
+</ul></div></div>
+<div class="su-column su-column-size-1-2"><div class="su-column-inner su-clearfix"><ul id="menu-other-links" class="menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/benefit-of-autonomous/"><span data-hover="Benefit of Autonomous">Benefit of Autonomous</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/new-events1/"><span data-hover="News &#038; Events">News &#038; Events</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/best-practices/"><span data-hover="Best Practices">Best Practices</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="http://newhorizonindia.edu/nhengineering/researchnhce/"><span data-hover="Research@NHCE">Research@NHCE</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/celebrity-diaries/"><span data-hover="Celebrity Diaries">Celebrity Diaries</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page standard"><a href="http://newhorizonindia.edu/nhengineering/nhce-video/"><span data-hover="NHCE Video">NHCE Video</span></a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom standard"><a href="https://www.tedxnhce.com/"><span data-hover="TEDx - NHCE">TEDx &#8211; NHCE</span></a></li>
+</ul></div></div>
+</div>
+
+</div></div></div><div class="panel-grid-cell" id="pgc-w5a5dc6e26bc10-0-2" ><div class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" id="panel-w5a5dc6e26bc10-0-2-0" data-index="2"><h3 class="widget-title">Get in Touch for Admissions</h3><div class="textwidget"><div class="thim-footer-location">
+<p class="info"><i class="fa fa-phone"></i><a href="tel:+91-80-6629 7777">+91-80-6629 7777</a></p>
+<p class="info"><i class="fa fa-phone"></i><a href="tel:+91-80-2844 0770">+91-80-2844 0770</a></p>
+<p class="info"><i class="fa fa-envelope"></i><a href="mailto: admissionsnhce@newhorizonindia.edu">admissionsnhce@newhorizonindia.edu</a></p>
+<p class="info"><i class="fa fa-map-marker"></i>Ring Road, Near Marathalli,<br />
+Bangalore – 560 103,INDIA</p>
+</div>
+</div></div></div></div></div></aside>				</div>
+			</div>
+		</div>
+	
+	<!--==============================powered=====================================-->
+			<div class="copyright-area">
+			<div class="container">
+				<div class="copyright-content">
+					<div class="row">
+						<div class="col-sm-6"><p class="text-copyright">Copyright &copy; New Horizon College of Engineering, 2016 | Design & Developed by: <a href="https://brandstory.in">Brandstory.in</a>.</p></div>							<div class="col-sm-6 text-right">
+															</div>
+											</div>
+				</div>
+			</div>
+		</div>
+		
+	
+</footer><!-- #colophon -->
+</div><!--end main-content-->
+
+<!-- Footer Bottom -->
+
+</div><!-- end wrapper-container and content-pusher-->
+
+	<a href="#" id="back-to-top">
+		<i class="fa fa-chevron-up"></i>
+	</a>
+
+
+
+</div>
+
+<script async type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/cleantalk-spam-protect/inc/cleantalk_nocache.js?random=5.58.5'></script>
+<div id="pum-18152" class="pum pum-overlay pum-theme-6086 popmake-overlay click_open" data-popmake="{&quot;id&quot;:18152,&quot;slug&quot;:&quot;landing-page-adwords-pop-up&quot;,&quot;theme_id&quot;:6086,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.adwordpopup3&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-18152" class="pum-container popmake theme-6086 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h4 style="text-align:center;padding-top:10px;">Apply For Admissions</h4>
+<p><div class="su-spacer" style="height:5px"></div><br />
+<div role="form" class="wpcf7" id="wpcf7-f18151-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f18151-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="18151" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f18151-o1" />
+<input type="hidden" name="_wpnonce" value="ffadc2c6cf" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:18151,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone *" /></span></p>
+<p><span class="wpcf7-form-control-wrap courses"><select name="courses" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" id="courseLearn" aria-required="true" aria-invalid="false"><option value="">Applying for course</option><option value="Computer Science &amp; Engineering">Computer Science &amp; Engineering</option><option value="Electronics &amp; Communication Engineering">Electronics &amp; Communication Engineering</option><option value="Information Science &amp; Engineering">Information Science &amp; Engineering</option><option value="Electrical &amp; Electronics Engineering">Electrical &amp; Electronics Engineering</option><option value="Mechanical Engineering">Mechanical Engineering</option><option value="Civil Engineering">Civil Engineering</option><option value="Automobile Engineering">Automobile Engineering</option><option value="Biotechnology Engineering">Biotechnology Engineering</option><option value="M.Tech – Computer Science &amp; Engineering">M.Tech – Computer Science &amp; Engineering</option><option value="M.Tech – Computer Network Engineering">M.Tech – Computer Network Engineering</option><option value="M.Tech – Communication Systems">M.Tech – Communication Systems</option><option value="M.Tech – Aeronautical Engineering">M.Tech – Aeronautical Engineering</option><option value="M.Tech – Software Engineering">M.Tech – Software Engineering</option><option value="M.Tech – Machine Design">M.Tech – Machine Design</option><option value="Master of Business Administration (MBA)">Master of Business Administration (MBA)</option><option value="Master Of Computer Applications (MCA)">Master Of Computer Applications (MCA)</option></select></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_704afe073992cbe4813cae2f7715336f" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_704afe073992cbe4813cae2f7715336f';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-13688" class="pum pum-overlay pum-theme-6086 popmake-overlay click_open" data-popmake="{&quot;id&quot;:13688,&quot;slug&quot;:&quot;landing-page-popup-3&quot;,&quot;theme_id&quot;:6086,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot; .landing-pop3&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-13688" class="pum-container popmake theme-6086 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h4 style="text-align:center;padding-top:10px;">Apply For Admissions</h4>
+<p><div class="su-spacer" style="height:5px"></div><br />
+<div role="form" class="wpcf7" id="wpcf7-f14425-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f14425-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="14425" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f14425-o2" />
+<input type="hidden" name="_wpnonce" value="dadb7efd96" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:14425,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone *" /></span></p>
+<p><span class="wpcf7-form-control-wrap courses"><select name="courses" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" id="courseLearn" aria-required="true" aria-invalid="false"><option value="">Applying for course</option><option value="Computer Science &amp; Engineering">Computer Science &amp; Engineering</option><option value="Electronics &amp; Communication Engineering">Electronics &amp; Communication Engineering</option><option value="Information Science &amp; Engineering">Information Science &amp; Engineering</option><option value="Electrical &amp; Electronics Engineering">Electrical &amp; Electronics Engineering</option><option value="Mechanical Engineering">Mechanical Engineering</option><option value="Civil Engineering">Civil Engineering</option><option value="Automobile Engineering">Automobile Engineering</option><option value="Biotechnology Engineering">Biotechnology Engineering</option><option value="M.Tech – Computer Science &amp; Engineering">M.Tech – Computer Science &amp; Engineering</option><option value="M.Tech – Computer Network Engineering">M.Tech – Computer Network Engineering</option><option value="M.Tech – Communication Systems">M.Tech – Communication Systems</option><option value="M.Tech – Aeronautical Engineering">M.Tech – Aeronautical Engineering</option><option value="M.Tech – Software Engineering">M.Tech – Software Engineering</option><option value="M.Tech – Machine Design">M.Tech – Machine Design</option><option value="Master of Business Administration (MBA)">Master of Business Administration (MBA)</option><option value="Master Of Computer Applications (MCA)">Master Of Computer Applications (MCA)</option></select></span>
+<p>
+Input this code: <em>To use CAPTCHA, you need <a href="http://wordpress.org/extend/plugins/really-simple-captcha/">Really Simple CAPTCHA</a> plugin installed.</em><br />
+<span class="wpcf7-form-control-wrap captcha-778"><input type="text" name="captcha-778" value="" size="4" maxlength="4" class="wpcf7-form-control wpcf7-captchar" autocomplete="off" aria-invalid="false" /></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_5b8add2a5d98b1a652ea7fd72d942dac" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_5b8add2a5d98b1a652ea7fd72d942dac';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-13685" class="pum pum-overlay pum-theme-6086 popmake-overlay click_open" data-popmake="{&quot;id&quot;:13685,&quot;slug&quot;:&quot;landing-page-popup-2&quot;,&quot;theme_id&quot;:6086,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.landing-pop2&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-13685" class="pum-container popmake theme-6086 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h4 style="text-align:center;padding-top:10px;">Apply For Admissions</h4>
+<p><div class="su-spacer" style="height:5px"></div><br />
+<div role="form" class="wpcf7" id="wpcf7-f13682-o3" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f13682-o3" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="13682" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f13682-o3" />
+<input type="hidden" name="_wpnonce" value="96cfcce009" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:13682,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone *" /></span></p>
+<p><span class="wpcf7-form-control-wrap courses"><select name="courses" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" id="courseLearn" aria-required="true" aria-invalid="false"><option value="">Applying for course</option><option value="Computer Science &amp; Engineering">Computer Science &amp; Engineering</option><option value="Electronics &amp; Communication Engineering">Electronics &amp; Communication Engineering</option><option value="Information Science &amp; Engineering">Information Science &amp; Engineering</option><option value="Electrical &amp; Electronics Engineering">Electrical &amp; Electronics Engineering</option><option value="Mechanical Engineering">Mechanical Engineering</option><option value="Civil Engineering">Civil Engineering</option><option value="Automobile Engineering">Automobile Engineering</option><option value="Biotechnology Engineering">Biotechnology Engineering</option><option value="M.Tech – Computer Science &amp; Engineering">M.Tech – Computer Science &amp; Engineering</option><option value="M.Tech – Computer Network Engineering">M.Tech – Computer Network Engineering</option><option value="M.Tech – Communication Systems">M.Tech – Communication Systems</option><option value="M.Tech – Aeronautical Engineering">M.Tech – Aeronautical Engineering</option><option value="M.Tech – Software Engineering">M.Tech – Software Engineering</option><option value="M.Tech – Machine Design">M.Tech – Machine Design</option><option value="Master of Business Administration (MBA)">Master of Business Administration (MBA)</option><option value="Master Of Computer Applications (MCA)">Master Of Computer Applications (MCA)</option></select></span>
+<p>
+Input this code: <em>To use CAPTCHA, you need <a href="http://wordpress.org/extend/plugins/really-simple-captcha/">Really Simple CAPTCHA</a> plugin installed.</em><br />
+<span class="wpcf7-form-control-wrap captcha-778"><input type="text" name="captcha-778" value="" size="4" maxlength="4" class="wpcf7-form-control wpcf7-captchar" autocomplete="off" aria-invalid="false" /></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_22ac3c5a5bf0b520d281c122d1490650" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_22ac3c5a5bf0b520d281c122d1490650';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-13093" class="pum pum-overlay pum-theme-6086 popmake-overlay click_open" data-popmake="{&quot;id&quot;:13093,&quot;slug&quot;:&quot;landing-page-popup&quot;,&quot;theme_id&quot;:6086,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.landing-pop&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-13093" class="pum-container popmake theme-6086 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h4 style="text-align:center;padding-top:10px;">Apply For Admissions</h4>
+<p><div class="su-spacer" style="height:5px"></div><br />
+<div role="form" class="wpcf7" id="wpcf7-f13092-o4" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f13092-o4" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="13092" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f13092-o4" />
+<input type="hidden" name="_wpnonce" value="93e98fbb74" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:13092,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone *" /></span></p>
+<p>Course: <span class="wpcf7-form-control-wrap course"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><input type="radio" name="course" value="MBA" checked="checked" /><span class="wpcf7-list-item-label">MBA</span></span><span class="wpcf7-list-item last"><input type="radio" name="course" value="MCA" /><span class="wpcf7-list-item-label">MCA</span></span></span></span></p>
+<p>Input this code: <em>To use CAPTCHA, you need <a href="http://wordpress.org/extend/plugins/really-simple-captcha/">Really Simple CAPTCHA</a> plugin installed.</em><br />
+<span class="wpcf7-form-control-wrap captcha-778"><input type="text" name="captcha-778" value="" size="6" maxlength="6" class="wpcf7-form-control wpcf7-captchar" autocomplete="off" aria-invalid="false" /></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_9b70e8fe62e40c570a322f1b0b659098" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_9b70e8fe62e40c570a322f1b0b659098';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-11332" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:11332,&quot;slug&quot;:&quot;find-a-friend&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.find-a-friend&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-11332" class="pum-container popmake theme-6088 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h5 style="text-align: center;">Find a Friend</h5>
+<p></p>
+<p style="text-align: center;"><div role="form" class="wpcf7" id="wpcf7-f11330-o5" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f11330-o5" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="11330" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f11330-o5" />
+<input type="hidden" name="_wpnonce" value="17183a34cb" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:11330,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span></p>
+<p><span class="wpcf7-form-control-wrap contactinfo"><input type="tel" name="contactinfo" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Your Contact Info" /></span></p>
+<p><span class="wpcf7-form-control-wrap friendname"><input type="text" name="friendname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="friend&#039;s Name" /></span></p>
+<p><span class="wpcf7-form-control-wrap batch"><input type="text" name="batch" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="friend&#039;s batch" /></span></p>
+<p><span class="wpcf7-form-control-wrap branch"><input type="text" name="branch" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="friend&#039;s branch" /></span></p>
+<p>Input this code: <em>To use CAPTCHA, you need <a href="http://wordpress.org/extend/plugins/really-simple-captcha/">Really Simple CAPTCHA</a> plugin installed.</em><br />
+<span class="wpcf7-form-control-wrap captcha-778"><input type="text" name="captcha-778" value="" size="4" maxlength="4" class="wpcf7-form-control wpcf7-captchar" autocomplete="off" aria-invalid="false" /></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_f340f1b1f65b6df5b5e3f94d95b11daf" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_f340f1b1f65b6df5b5e3f94d95b11daf';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-11087" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:11087,&quot;slug&quot;:&quot;submit-resume-2&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.submit-resume-2&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-11087" class="pum-container popmake theme-6088 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h4 style="text-align:center;padding-top:10px;"> Submit Resume</h4>
+<div role="form" class="wpcf7" id="wpcf7-f11079-o6" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f11079-o6" method="post" class="wpcf7-form" enctype="multipart/form-data" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="11079" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f11079-o6" />
+<input type="hidden" name="_wpnonce" value="b01309e158" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:11079,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap Name"><input type="text" name="Name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name*" /></span></p>
+<p><span class="wpcf7-form-control-wrap Email"><input type="email" name="Email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email*" /></span></p>
+<p><span class="wpcf7-form-control-wrap phone-number"><input type="text" name="phone-number" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone-Number*" /></span></p>
+<p>Upload Resume:<span class="wpcf7-form-control-wrap file-908"><input type="file" name="file-908" size="40" class="wpcf7-form-control wpcf7-file wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span><br />
+<strong>Note:</strong> Please Upload the Resume in pdf / doc / docx / txt format.</p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_35f4a8d465e6e1edc05f3d8ab658c551" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_35f4a8d465e6e1edc05f3d8ab658c551';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-9460" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:9460,&quot;slug&quot;:&quot;admission-enquiry&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.enquire-admission&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;700&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-9460" class="pum-container popmake theme-6088 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="row">
+<div class="col-md-1"></div>
+<div class="col-md-10">
+<h3 style="text-align: center;color:#273373 !important;">ENQUIRY FOR ADMISSIONS</h3>
+<div role="form" class="wpcf7" id="wpcf7-f12203-o7" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f12203-o7" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="12203" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f12203-o7" />
+<input type="hidden" name="_wpnonce" value="9255e1dc25" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:12203,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap name-submitter"><input type="text" name="name-submitter" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name *" /></span></p>
+<p><span class="wpcf7-form-control-wrap email-submitter"><input type="email" name="email-submitter" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email *" /></span></p>
+<p><span class="wpcf7-form-control-wrap mobile"><input type="tel" name="mobile" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone *" /></span></p>
+<p><span class="wpcf7-form-control-wrap place"><input type="text" name="place" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Place *" /></span></p>
+<p><span class="wpcf7-form-control-wrap course"><input type="text" name="course" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Course *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap textarea-message"><textarea name="textarea-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit ncontact" /></p>
+<p><!--
+<p><input type="submit" value="Enquiry for Admissions" class="wpcf7-form-control wpcf7-submit" /></p>
+<p>--></p>
+<input type="hidden" id="ct_checkjs_cf7_7f100b7b36092fb9b06dfb4fac360931" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_7f100b7b36092fb9b06dfb4fac360931';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+<div class="col-md-1"></div>
+</div>
+<hr />
+<div class="row" style="background-color:white;padding: 0px 0px;">
+<div class="col-xs-12">
+<div class="col-xs-12">
+<h4 style="text-align: center;border:1px solid #ffffff !important;padding: 5px 10px;">FOR ADMISSSION QUERIES &#8211; CONTACT</h4>
+</div>
+<div class="col-xs-12">
+<ul class="list-info">
+<li><i class="fa fa-map-marker prime-color"></i>Karnataka &#038; Tamil Nadu :+91 9880534935</li>
+<li><i class="fa fa-map-marker prime-color"></i>Kerala :+91 9945133772</li>
+<li><i class="fa fa-map-marker prime-color"></i>Bihar, Jharkhand, Chattisgarh, Madhya Pradesh, Uttar Pradesh &#038; entire North India: +91 9740076446</li>
+<li><i class="fa fa-map-marker prime-color"></i>Andhrapradesh &#038; Telangana :+91 9740076447</li>
+<li><i class="fa fa-map-marker prime-color"></i>West Bengal, Manipur, Assam, Shillong, Meghalaya &#038; entire East India :+91 9740076936</li>
+<li><i class="fa fa-map-marker prime-color"></i>Nepal &#038; Bhutan:+91 9740076936</li>
+<p></p>
+<li><i class="fa fa-map-marker prime-color"></i>Rest of India : +91 9880534935 ,+91 80 66297777</li>
+<li><i class="fa fa-envelope prime-color"></i><a href="mailto:admissionsnhce@newhorizonindia.edu">admissionsnhce@newhorizonindia.edu</a></li>
+</ul>
+</div>
+</div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-7707" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:7707,&quot;slug&quot;:&quot;library-quick-inquiry&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.lib-inquiry-btn&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;tiny&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;50&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;\u00d7&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-7707" class="pum-container popmake theme-6088 pum-responsive pum-responsive-tiny responsive size-tiny">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h5 style="text-align: center;">QUICK INQUIRY</h5>
+<p></p>
+<p style="text-align: center;"><div role="form" class="wpcf7" id="wpcf7-f7705-o8" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f7705-o8" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="7705" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7705-o8" />
+<input type="hidden" name="_wpnonce" value="bd6416680b" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:7705,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap Name"><input type="text" name="Name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap Email"><input type="email" name="Email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email*" /></span> </p>
+<p><span class="wpcf7-form-control-wrap Subject"><input type="text" name="Subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap Message"><textarea name="Message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Message*"></textarea></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_ffd52f3c7e12435a724a8f30fddadd9c" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_ffd52f3c7e12435a724a8f30fddadd9c';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-7699" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:7699,&quot;slug&quot;:&quot;library-online-book-reservation&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.lib-online-reservation-btn&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;70&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;\u00d7&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-7699" class="pum-container popmake theme-6088 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h4 style="text-align: center;"><strong>NHCE ONLINE BOOK RESERVATION</strong></h4>
+<h4 style="text-align: center;">
+<div role="form" class="wpcf7" id="wpcf7-f7698-o9" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f7698-o9" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="7698" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7698-o9" />
+<input type="hidden" name="_wpnonce" value="071f5e4cc5" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:7698,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap Name"><input type="text" name="Name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap USN"><input type="text" name="USN" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="USN / ID *" /></span></P></p>
+<p><span class="wpcf7-form-control-wrap PhoneNumber"><input type="tel" name="PhoneNumber" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone Number*" /></span>
+<p><span class="wpcf7-form-control-wrap Email"><input type="email" name="Email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email*" /></span> </p>
+<p><span class="wpcf7-form-control-wrap TitleOfBook"><input type="text" name="TitleOfBook" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Title Of Book *" /></span></p>
+<p><span class="wpcf7-form-control-wrap Authors"><input type="text" name="Authors" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Authors *" /></span></p>
+<p><span class="wpcf7-form-control-wrap EditionYear"><input type="text" name="EditionYear" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Edition &amp; Year *" /></span></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_f8c1f23d6a8d8d7904fc0ea8e066b3bb" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_f8c1f23d6a8d8d7904fc0ea8e066b3bb';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></h4>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-7575" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:7575,&quot;slug&quot;:&quot;guest-lectures&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.guest-lecture-accordian&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;large&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;\u00d7&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-7575" class="pum-container popmake theme-6088 pum-responsive pum-responsive-large responsive size-large">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="su-table">
+<table>
+<tbody>
+<tr>
+<th>Date</th>
+<th>Guest Lecture Details</th>
+</tr>
+<tr>
+<td>31-Mar-16</td>
+<td><strong>ISE Dept., – </strong>Guest Lecture on “Logistics &amp; Supply Chain Management” by Prof. B.Ananth Narayanan – Managing Director, Maniams Marketing Services Pvt. Ltd., was conducted for 64 VIII Semester and 04 M.Tech Students.</td>
+</tr>
+<tr>
+<td>31-Mar-16</td>
+<td><strong>ME Dept., – </strong>Guest Lecture on “Procedures and policies of Startups” was delivered for the Final Year Students by Mr. Manish Kumar – CEO – Prep lift. Com</td>
+</tr>
+<tr>
+<td>30-Mar-16</td>
+<td><strong>Civil Dept., – </strong>Guest Lecture on “Opportunities Overseas” was delivered for the Pre-Final Year Students by Mr. Veerabhadrappa – Manager – Edwise Consultants Pvt. Ltd.,</td>
+</tr>
+<tr>
+<td>30-Mar-16</td>
+<td><strong>ME Dept., – </strong>Guest Lecture on “Opportunities Overseas” was delivered for the Pre-Final Year Students by Mr. Veerabhadrappa – Manager – Edwise Consultants Pvt. Ltd.,</td>
+</tr>
+<tr>
+<td>&nbsp; 29-Mar-16</td>
+<td><strong>EEE Dept., – </strong>Guest Lecture on “Opportunities Overseas” was delivered for <strong>80</strong> Final Year Students by Mr. Veerabhadrappa – Manager – Edwise Consultants Pvt. Ltd.,</td>
+</tr>
+<tr>
+<td> 15-Mar-16</td>
+<td><strong>ME Dept., – </strong>Guest Lecture on “Rapid Prototyping” was delivered for the Final Year Students by Mr. P Ramesh – Divisional Manager – NTTF</td>
+</tr>
+<tr>
+<td> 9-Mar-16</td>
+<td><strong>ECE Dept., – </strong>Guest Lecture on “Introduction to Mobile Ecosystem” by Alfa Zareena – Software Engineer, PLACKAL Tech, Bangalore for the 120 Pre Final Year Students was organized</td>
+</tr>
+<tr>
+<td> 5-Mar-16</td>
+<td><strong>EEE Dept., – </strong>Guest Lecture on “PCB Design Training&nbsp; ” was delivered for <strong>80</strong> Final Year Students by Mr. Mr. Kotesh M, Manager, Indian Tech- Keys,</td>
+</tr>
+<tr>
+<td> 2-Mar-16</td>
+<td><strong>ME Dept., – </strong>Guest Lecture on “Opportunities Overseas” was delivered for the Pre-Final Year Students by Mr. Inayathulla B.H – Business Development Manager – ORATALENTS</td>
+</tr>
+<tr>
+<td> 29-Feb-16</td>
+<td><strong>Civil Department – </strong>Guest lecture on “Higher education &amp; Job Opportunities in New Zealand” by Mr. Tony Mortensen, Director of International Growth Strategies University of Canterbury-New Zealand was organized for the VIII Semester Students</td>
+</tr>
+<tr>
+<td> 27-Feb-16</td>
+<td><strong>Biotechnology Department – </strong>Guest Lecture on “A Holistic overview of CRO – Job Opportunities and Expected Skills from a Life Science Engineer” was organized for IV, VI and VIII Semester Students. The Speakers were Dr. Vikas Mohan Sharma (Chief Medical Officer, Asia Medical Sciences Group, Quintiles) &amp; Dr. Anitha Patwari (Associate Medical Director, Asia Medical Sciences Group, Quintiles)</td>
+</tr>
+<tr>
+<td> 27-Feb-16</td>
+<td><strong>MCA Department – </strong>Guest Lecture on “Multithreading in JAVA” for the IV Semester Students and 180 students attended. The invitee was Mr. Praveen Sinha, Senior Architect, Oracle, B’lore</td>
+</tr>
+<tr>
+<td> 26-Feb-16</td>
+<td><strong>ISE Department</strong> conducted a Guest Lecture for IV ,VIII Semester and MTech students on “Innovation and Value creation” by Mr. Verendra Vamshetty, Innovation Manager, Schneider Electric&nbsp; and nearly 200 Students attended the same</td>
+</tr>
+<tr>
+<td> 26-Feb-16</td>
+<td><strong>Automobile Department</strong> conducted a Guest Lecture on “Role of IT in Automotive Industry” by Mr B Madhusudhan Prabhu, Associate consultant, Innovation and Transformation Group, Manufacturing Industry Solutions- TCS for 4<sup>th</sup>,6<sup>th</sup> &amp; 8<sup>th</sup>&nbsp; Semester Students</td>
+</tr>
+<tr>
+<td> 26-Feb-16</td>
+<td><strong>Civil Department – </strong>Guest lecture on “Career Guidance” by Mr.Durai Kannan, Business development Manager, T.I.M.E&nbsp; was organized for the VI Semester Students</td>
+</tr>
+<tr>
+<td> 24-Feb-16</td>
+<td><strong>ISE Department</strong> conducted a Guest Lecture for VI Semester on “Advances in Networking Technologies” by Mr. Ashwin M , Senior Software Engineer, CISCO Systems and nearly 110 Students attended the same</td>
+</tr>
+<tr>
+<td> 13-Feb-16</td>
+<td><strong>Automobile Department</strong> conducted a Guest Lecture on “Design and development
+
+<p>methodology of a heavy duty diesel engine” by Mr Yogesh Bolar, DGM- Engine R&amp;D, Ashok Leyland, Hosur for 4<sup>th</sup>,6<sup>th</sup> &amp; 8<sup>th</sup>&nbsp; Semester Students</p>
+</td>
+</tr>
+<tr>
+<td> 13-Feb-16</td>
+<td><strong>Civil Department – </strong>Guest lecture on “Overview design and construction of Urban Infrastructure“ by Dr Pradeep Kumar T V , ME(Structures),Ph.D( IIT) (Roovkee) was conducted for the IV Semester Students</td>
+</tr>
+<tr>
+<td> 13-Feb-16</td>
+<td><strong>EEE Department – </strong>Guest Lecture on “Current Technologies &amp; Training” was organized for the VIII Semester Students by Mr. Bhagavan Prasad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Director, Aura Networks, Bangalore. Nearly 80 Students attended the same.</td>
+</tr>
+<tr>
+<td> 11-Feb-16</td>
+<td><strong>Mechanical Department – </strong>Guest Lecture was organized on “Carriers in Marine Studies” by Mr. Ajay. A. Tambwekar – Dy. Director – Institute of Maritime studies and Mr. Abhimanyu – Engineer – Institute of&nbsp; Maritime Studies for the VI Semester Students.</td>
+</tr>
+<tr>
+<td> 11-Feb-16</td>
+<td><strong>BSH Department – </strong>Guest Talk On ‘Towards A Super-Efficient LED’ by Prof. S.M. Shivaprasad, Jawaharlal Nehru Centre For Advanced Scientific Research, Bangalore delivered a talk to II Semester BE students. Students actively participated in the interactive session.</td>
+</tr>
+<tr>
+<td> 4-Jan-16</td>
+<td>Guest Lecture was organized for GP Students in <strong>ECE Department</strong>. The Speaker was Ms.Poornima, eklakshya, Bangalore on the Topic of Mixed Signal IC Product Development.</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="76">31 Oct 15</td>
+<td>ECE Dept., – A Guest Lecture was organized by ECE Department for the  III Semester students on “Introduction to Satellite Systems” by  Mr. Satheesh Kumar from ISRO, Bangalore.</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="76">30 Oct 15</td>
+<td>BSH Dept., – Guest Lecture on “Importance of Technology” by Mr.Adithya Vasudev Murthy, Founder of ZNEXUS, Bangalore for all the Chemistry Cycle Students</td>
+</tr>
+<tr>
+<td>ISE Dept., – Guest Lecture on “Swarm Intelligence” by Mrs. Ashwini. K, Asst. Prof. of NHCE and nearly 90 Students attended the same.</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="76">29 Oct 15</td>
+<td>Civil Dept., – Construction of college new canteen building to show false ceiling work, flooring , finishing &amp; kitchen platform work by VII B Students</td>
+</tr>
+<tr>
+<td>ECE Dept., – A Guest Lecture was organized for the&nbsp; V Semester Students on “Wi-Fi and its Application’” by&nbsp; Mr. Nikhil Santhosh from Libre Wireless Technologies, Bangalore.</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="57">28 Oct 15</td>
+<td>BT Dept., – Guest Lecture on “Trends and Opportunities in Indian Biotech Segment and Collaborative Outreach for Skill Development” by Prof. S. S. Easwaran – Academic Director, Biocon Aacademy &amp; Mrs. Bindu Ajit – Program Director, Biocon Academy </td>
+</tr>
+<tr>
+<td>20 Oct 15</td>
+<td>ECE Dept., – A Guest Lecture was organized for the&nbsp; III Semester students on “Evolution: Human Systems &amp; Embedded Systems” by&nbsp; Mr. Sachin Scaria from Wipro Technologies, Bangalore.</td>
+</tr>
+<tr>
+<td>19 Oct 15</td>
+<td>ECE Dept., – A Guest Lecture was organized for the&nbsp; V Semester students on “Deep Submicron Impact” by&nbsp; Mr. Ravi Prakash from Analog Devices Inc, Bangalore.</td>
+</tr>
+<tr>
+<td rowspan="3" align="center" valign="middle" height="149">10 Oct 15</td>
+<td>EEE Dept., – Guest Lecture on “ Renewable Energy, Online &amp; Offline UPS” by Mr. Sreekanth Akula, Power One Microsystems Pvt. Ltd, # 419/58, 14th Cross, 20th Main, 1st Block, Rajajinagara, Bangalore -10 for VII Semester Students</td>
+</tr>
+<tr>
+<td>Civil Dept., – Guest Lecture on “ Career opportunities in real estate, Construction and Infrastructure” by Ms Monalisa Mallick from RICS School of built environment-Amity university Noida was organized for the VII Semester Students</td>
+</tr>
+<tr>
+<td>MCA Dept., – Guest Lecture on “ Art of Mind control” by Mr.Virgadas,ISKON, Bangalore</td>
+</tr>
+<tr>
+<td>5 Oct 15</td>
+<td>ME Dept., – A Guest Lecture on “Importance of Hybrid Vehicles” by Dr. Ravi Chandran – Professor – Technical University Kualalumpur, Malaysia for the Pre Final Year Students</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="114">1 Oct 15</td>
+<td>EEE Dept., – Guest Lecture on “ Institution offering higher studies” by Mr. Akash Sarkar , Vincisive Solutions Pvt Ltd, # 3, 4th Floor, Santosh Tower, # 120, P.A 3, EPIP, Zone, KIDAB Industrial Area, Bangalore – 66 for VII Semester Students</td>
+</tr>
+<tr>
+<td>EEE Dept., – Guest Lecture on “ Institution offering higher studies in abroad” by Mr. Shiva Krishna HR, Tvidesh Consultz, # 16, 2nd Floor, Phoniex Arcase, Church Street, Richmond TownBangalore – 01 for VII Semester Students</td>
+</tr>
+<tr>
+<td>30 Sep 15</td>
+<td align="justify" valign="middle">A Guest Lecture by Mechanical Department for the Pre-Final Year students on “Overseas Education ” by Mr. Sheshanshu Shekar Head from IMS Bangalore </td>
+</tr>
+<tr>
+<td>26 Sep 15</td>
+<td align="justify" valign="middle"> A Guest Lecture was organized by MCA Department on “ Two Dimensional Rendering” by Mr.Dhiraj. CISCO Bangalore</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="57">23 Sep 15</td>
+<td align="justify" valign="middle">A Guest Lecture by Mechanical Department for the Final Year students on “Career overseas” by Mr. Somashekar . P Assistant Manager from SIEC Education Pvt. Ltd</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">A Guest Lecture by ISE Department on “CAMPUS TO CORPORATE” by Ms. Shalini P</td>
+</tr>
+<tr>
+<td>19 Sep 15</td>
+<td align="left" valign="middle">A Guest lecture was organized by Biotechnology Department on “ Insulin – from Conventional to Recombinant” by Dr. H.Nellaiah from Biozeen</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="114">5 Sep 15</td>
+<td align="justify" valign="middle">A Guest lecture was organized by Biotechnology Department on “Optimization of Microalgae growth conditions to enhance the yield of lipid and biomass content using ANN for cost effective production of biodiesel and value added products”. The Department had invited the Alumni Members Ms. Mounisha.R, Ms. Srujana.K.N, Ms. Pratibha.K &amp; Ms. Smitha.K for delivering the lecture.</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">A Guest Lecture was organized by MCA Department on “ Overview of JAVA Technology” by Mr. Praveen Sinha , Oracle Bangalore</td>
+</tr>
+<tr>
+<td>4 Sep 15</td>
+<td align="justify" valign="middle">A Guest Lecture was organized by ECE Department on “ VLSI Technology and its Challenges” by Ms. Anita Kulkarni, Intel Technologies</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="57">1 Sep 15</td>
+<td align="justify" valign="middle">Guest Lecture conducted by Automobile Department on “ELS International Education Counseling &amp; Admission Services” by Mr. John Kurian from ELS International Education Counseling and Admission Services for the VII Semester Students</td>
+</tr>
+<tr>
+<td>31 Aug 15</td>
+<td>Civil Dept., – Guest lecture on “ Alternative roofing system” by Dr Ravindra, Professor in Department of Civil Engineering, RV College of Engineering</td>
+</tr>
+<tr>
+<td>24 Aug 15</td>
+<td>ECE Dept., – Guest Lecture on “ FPGA Trends &amp; Opportunities” – VLSI delivered by Mr. Raja Jitendra Nayaka, Senior Engineer, Core R&amp;D, ITI Ltd, Bangalore was conducted</td>
+</tr>
+<tr>
+<td>22 Aug 15</td>
+<td>EEE Dept., has conducted a Guest Lecture on “ Institution offering higher studies in abroad” by Mr. John Kurian</td>
+</tr>
+<tr>
+<td>19 Aug 15</td>
+<td>BT Dept., – Guest Lecture on Recombinant vaccinology was delivered by Dr. Seema Tharrunum, Associate Professor Dept. of Biotechnology P E S University.</td>
+</tr>
+<tr>
+<td>14 Aug 15</td>
+<td>Civil Dept., – Guest lecture on “E construction” by Mr Madhaven Raju , Business Development Manager, E construction design &amp; build (P) Ltd</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="76">13 Aug 15</td>
+<td>ISE Dept., – Guest Lecture for 120 Students on the topic of “Share , Discuss &amp; organize educational content for life” by Ms. Namrata Sharma ,Community Manager Scholate </td>
+</tr>
+<tr>
+<td>ME Dept., – Guest Lecture on Producers and Policies of Startups for the Pre-Final Year Students were delivered by Ms. Sonia Yadav</td>
+</tr>
+<tr>
+<td>12 Aug 15</td>
+<td>ME Dept., – Guest Lecture on 3D Printing for the Final Year Students were delivered by Mr. Vineeth Thomas</td>
+</tr>
+<tr>
+<td>22 May 15</td>
+<td align="justify" valign="middle">A Guest Lecture was organized by MBA Department on “Risk Management” delivered by Mr. Uday Kumar, Professor, Sea College for the IV Semester Students</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="57">20 May 15</td>
+<td align="justify" valign="middle">A Guest Lecture was organized by MBA Department on “Research Methodology” delivered by Mr. Manohar Dayananda Rao, Managing Director, Pharos Consulting Pvt. Ltd for the II Semester Students</td>
+</tr>
+<tr>
+<td>13 May 15</td>
+<td align="justify" valign="middle">Guest Lecture on Testing of Electrical Equipments was organized by EEE Department and the resource person was Mr. Dayalan.T.R</td>
+</tr>
+<tr>
+<td rowspan="3" align="center" valign="middle" height="133">9 May 15</td>
+<td align="justify" valign="middle">Guest Lecture on Introduction To Python (Software Developer) was organized by CSE Department and the resource person was Mr.Santosh Kumar, Free Software Movement, Richmand Circle Bangalore</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">Guest Lecture on Project Management And Data Mining was organized by CSE Department and the resource person was Mr.ARUN R, Project Manager, IBM</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">Guest Lecture on Programming languages like C, C++, JAVA and design patterns (Software Technologies) was organized by EEE Department and the resource person was Ms. Shilpa Vaidya</td>
+</tr>
+<tr>
+<td rowspan="3" align="center" valign="middle" height="114">8 May 15</td>
+<td align="justify" valign="middle">A Guest Lecture by ISE Department was organized on “ Wireless Communication” by Mr. Ramar Balakrishanan, Software Engineer,CISCO for VI Semester Students.</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">Guest Lecture on Analog Circuits inside a chip for VI semester students was delivered by Dr. Shashidhar Tantry, Sankalp Semiconductor, Bangalore – ECE Department</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">Guest Lecture on Role of IP’s in VLSI Design for VIII semester and M.Tech students was delivered by Dr. Shashidhar Tantry, Sankalp Semiconductor, Bangalore – ECE Department</td>
+</tr>
+<tr>
+<td>5 May 15</td>
+<td align="justify" valign="middle">Guest Lecture on Need of standard cell libraries in ASIC was delivered by Mr. Sunil Kumar, Sankalp Semiconductor, Bangalore – ECE Department</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="95">11 Apr 15</td>
+<td>MCA Department – Guest Lecture on “Cloud Computing” was delivered by Mr.P.Mahesh Kumar, Senior Manager – HP</td>
+</tr>
+<tr>
+<td>EEE Department – Guest Lecture on “ Programs on Hardware and Software implementation and developments specialization on VLSI &amp; Embedded System Technologies was delivered by MR. Shyamkrishnan V M</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="57">10 Apr 15</td>
+<td>ISE Dept., – Guest Lecture on “ Elliptical Curve Cryptography and Patents” delivered by Dr. Pritam Gajkumar Shah , Associate Professor ,R V College of Engineering ,Bengaluru. Nearly 60 students attended the same.</td>
+</tr>
+<tr>
+<td>1 Apr 15</td>
+<td>ISE Dept., – Guest Lecture on “Basics of Software Testing” delivered by Mr. Manoj Jain ,EMC2, Bengaluru. Nearly 82 students attended the Lecture </td>
+</tr>
+<tr>
+<td>27 Mar 15</td>
+<td>MCA Department – A Guest Lecture on “Introduction to Six Sigma” was conducted by Mr.Alex Rajan. P, Manager Operations, Anexas Consultancy Services.</td>
+</tr>
+<tr>
+<td>25 Mar 15</td>
+<td>Civil Department – A Guest lecture session on “Mock interview (technical) for pre-final and final year students” by Mr.HariHaraSudan, CEO-Fulkrum.</td>
+</tr>
+<tr>
+<td>18 Mar 15</td>
+<td>Mechanical Dept., – A Guest Lecture on “ Preparing for GATE – 2016” by Ms. Archana Dubey – TIME for VI Semester students </td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="40">13 Mar 15</td>
+<td>Automobile Dept., – A Guest Lecture on “Emission compliance in Petrol Engines” by G R Reddy, Ex-Tata Motors for 4th &amp; 6th Semester Students</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="40">12 Mar 15</td>
+<td>Automobile Dept., – A Guest Lecture on “Digital Design &amp; Virtual Modelling” by Mr.Rajendra K-Veda Technologies &amp; Innovations for 4th &amp; 6th Semester Students</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="95">7 Mar 15</td>
+<td>EEE Department – A Guest Lecture on “Home Automation System” – Control and Monitor conditions of your home and various appliances using a Mobile App was delivered by Mr. Atul Sharma, IOTACELL</td>
+</tr>
+<tr>
+<td>Biotechnology Dept., – A Guest Lecture on “Development of Phytochemicals” was conducted by Mr. Rajendran. R CEO &amp; Founder Green Chem for IV, VI and VIII Semester Students</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="40">3 Mar 15</td>
+<td>Automobile Dept., – A Guest Lecture on “Design &amp; racing of Vehicles” by Mr. Sampath – Elite Techno Groups for 4th &amp; 6th Semester Students</td>
+</tr>
+<tr>
+<td>2 Mar 15</td>
+<td>Mechanical Dept., – A Guest Lecture on “ Engineering Drawing, Process Planning” by Mr.Pradeep P.V for VIII Semester students </td>
+</tr>
+<tr>
+<td>28 Feb 15</td>
+<td>MCA Dept., – A Guest Lecture was delivered on “Insight of Data Warehousing and Comprehensive Study” by Mr. Niyas Ahmed, Senior Data Architect, Cognizant.</td>
+</tr>
+<tr>
+<td>26 Feb 15</td>
+<td>MCA Dept., – A Guest Lecture was delivered on “Career Opportunities in Infosys” by Mr. Anup Singh, Principal, Education and Research Department, Infosys</td>
+</tr>
+<tr>
+<td>14 Feb 15</td>
+<td align="justify" valign="middle">Guest Lecture on “Institutions offering MS at Abroad” – Higher Education was delivered by Mr.Renjith, Atlanta Group of Institutions – EEE Dept.,</td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="57">13 Feb 15</td>
+<td>CIVIL Dept., – A Guest lecture on “Advanced Surveying Technologies using Total Station, DGPS and Lidar” was delivered by Mr.S.Hemanth Reddy, CEO, Madhusirigroup for IV and VI Semester students</td>
+</tr>
+<tr>
+<td rowspan="3" align="center" valign="middle" height="152">9 Feb 15</td>
+<td>CIVIL Dept., – A Guest lecture on “Career Opportunity in Built Environment Sector” was delivered by Ms.Sunny Jaiswal, Sr. Executive Operations &amp; Client Servicing, Royal Institution of Chartered Surveyor for VIII Semester students</td>
+</tr>
+<tr>
+<td>ME Dept., – Guest Lecture was conducted on “New Technological Development in CAD Modelling” by Mr.Mathew Chiral.M – VP Marketing – NICC – International College of Media Design for VIII Semester Students</td>
+</tr>
+<tr>
+<td>ME Dept., – Guest Lecture was conducted on “Career Pathways after B.E and Study Overseas” by Ms. Shaista Baljee – Indian School of Business for VI Semester Students</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="76">20 Jan 15</td>
+<td align="justify" valign="middle">Guest Lecture on “Bitcoin” was arranged by MBA Department. The Speaker was Mr.Sharan Nair, Executive UNOCOIN.</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">Guest Lecture on “Financial Management” was arranged by MBA Department. The Speaker was Prof. K R Pundareeka Vittal – HoD, M.Com, Presidency College</td>
+</tr>
+<tr>
+<td>8 Nov 14</td>
+<td align="left" valign="middle">Guest Lecture – MCA Dept. – Open Source Architecture – Mr.Sharath – Technical Lead – Trainegde Microsoft Academy Partner</td>
+</tr>
+<tr>
+<td>6 Nov 14</td>
+<td align="left" valign="middle">&nbsp;MCA Dept. – Guest Lecture on Windows forms applications by Mr.Sharath – Technical Lead – Trainegde Microsoft Academy Partner was conducted. </td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="19">31 Oct 14</td>
+<td align="left" valign="middle"><b>MCA Dept. – Guest Lectures on Delegates &amp; Events on DOT Net Platforms</b></td>
+</tr>
+<tr>
+<td>29 Oct 14</td>
+<td align="left" valign="middle"><b>EEE Dept., – Guest Lecture on Recent Advancements in Electricals by Mr.Johnson Peter. V Entuple Technologies</b></td>
+</tr>
+<tr>
+<td>14 Oct 14</td>
+<td align="left" valign="middle">&nbsp;ECE Dept., – Guest Lecture on Innovations in the field of Image Processing, VLSI and Communications by Mr. Sudhir Rao, Research Asst. IISc, Bangalore.</td>
+</tr>
+<tr>
+<td>5 Oct 14</td>
+<td align="left" valign="middle"><b>EEE Dept., – Guest Lecture on Employment Orientation Courses in Power System by Mr.M.N.Murthy – NPTI</b></td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="19">30 Sep 14</td>
+<td align="left" valign="middle"><b>Invited Guest Talk for BT Dept Ms. Shazia.K Executive, Ims-health, Bangalore.</b></td>
+</tr>
+<tr>
+<td>29 Sep 14</td>
+<td align="left" valign="middle">Mr. R Varadharajan Senior System Architect, Robert Bosch, Koramangla Branch, Bangalore was invited for the guest talk in BSH Department </td>
+</tr>
+<tr>
+<td>18 Sep 14</td>
+<td align="left" valign="middle">&nbsp;EEE Dept., – Guest Lecture on Generator Motor Protection by Mr.Naveen – High Voltage India Pvt. Ltd.,</td>
+</tr>
+<tr>
+<td>17 Sep 14</td>
+<td align="left" valign="middle">Guest Lecture – ISE Dept., – Embedded Systems &amp; Embedded Devices in Networking by Mr. Veerendra Vasamsetty, Innovation Manager &amp; Group Edison Expert in Schneider Electric .</td>
+</tr>
+<tr>
+<td>16 Sep 14</td>
+<td align="left" valign="middle">Guest Lecture for on Higher Studies Abroad by Mr.Prasad.S from ‘The Chopras Institute of Professional Education – ME Dept., </td>
+</tr>
+<tr>
+<td>14 Sep 14</td>
+<td align="left" valign="middle">Guest Lecture – Civil Dept. – Fal -G Composites as Building materials by Dr.D S Niranjan, Prof. &amp; HoD CMRIT</td>
+</tr>
+<tr>
+<td>13 Sep 14</td>
+<td>Dr. K P J Reddy – Professor, Indian Institute of Science, Bangalore was invited for Guest talk in BSH. </td>
+</tr>
+<tr>
+<td>6 Sep 14</td>
+<td align="left" valign="middle"><b>Invited Guest Talk for BT Dept. Dr. Pankaj Gupta Programme Manager &amp; advisor for writing Grants, Projects (National Center for Biological Science, Bangalore</b></td>
+</tr>
+<tr>
+<td>5 Sep 14</td>
+<td align="left" valign="middle"><b>ME Dept., – Guest Lecture on Necessities of higher studies by Mr.S.Patel for GATE coaching academy for VII Semester</b></td>
+</tr>
+<tr>
+<td>3 Sep 14</td>
+<td align="left" valign="middle"><b>Invited Guest Talk for BT Dept. Ms. Swati Misra International adviser for Marketing, Kings College London</b></td>
+</tr>
+<tr>
+<td>1 Sep 14</td>
+<td align="left" valign="middle">&nbsp;EEE Dept., – Guest Lecture on Software Development by Mr.Shyam Krishnan – CoreEL Technologies</td>
+</tr>
+<tr>
+<td>28 Aug 14</td>
+<td align="left" valign="middle"><b>EEE Dept., – Guest Lecture on Training for programmes for International exams like GMAT, GRE, IELTS and TOEFL and also helpful for national and state-level entrance exams like CAT and MAT</b></td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="19">25 Aug 14</td>
+<td align="left" valign="middle">Guest Lecture – ISE Dept., – “Design of fourth generation language” by Dr.Ajeet A C</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="57">22 Aug 14</td>
+<td align="justify" valign="middle">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guest Lecture – Civil Dept. – “Latest trends in Concrete Composite” – Dr.Rajendra, Prof. &amp; HoD – PG NCET</td>
+</tr>
+<tr>
+<td align="justify" valign="middle">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ECE Dept., – Guest Lecture on CCNA, CCNP by Mr.Pradeep Sagar IT Training Consultant</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="middle" height="76">18 Aug 14</td>
+<td align="left" valign="middle">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ME Dept., – Guest Lecture on Importance of Robotics Technology by Mr. Kiran Hebbar from SIMENS, Bangalore – VII Sem.</td>
+</tr>
+<tr>
+<td align="left" valign="middle">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ME Dept., – Guest Lecture on Necessities of higher studies by Mr.Sabyasachi Pal from T.I.M.E for VII Sem. </td>
+</tr>
+<tr>
+<td align="center" valign="middle" height="19">14 Aug 14</td>
+<td align="left" valign="middle"><b>Guest Lecture – ISE Dept., Exploring career growth by Mr. Vishwanath, Times Education Pvt Ltd</b></td>
+</tr>
+<tr>
+<td>13 Aug 14</td>
+<td align="left" valign="middle">Guest Lecture for III M.Tech ( CIM &amp; Aero) by Dr. Pradeep . K. Sahoo , Sr. Scientist from National Aerospace laboratories Bangalore on Alternative materials for aerospace application – ME Dept., </td>
+</tr>
+<tr>
+<td>9 Aug 14</td>
+<td align="left" valign="middle"><b>EEE Dept. – Guest Lecture on Admission to M.Tech, Job opportunities in PSUs by Mr.Pramod Kumar from T.I.M.E</b></td>
+</tr>
+</tbody>
+</table>
+<p></div>
+</p>		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-7127" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:7127,&quot;slug&quot;:&quot;submit-resume&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.submit-resume&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-7127" class="pum-container popmake theme-6088 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<h4 style="text-align:center;padding-top:10px;"> Submit Resume</h4>
+<div role="form" class="wpcf7" id="wpcf7-f7124-o10" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f7124-o10" method="post" class="wpcf7-form" enctype="multipart/form-data" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="7124" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7124-o10" />
+<input type="hidden" name="_wpnonce" value="ceafa15c25" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:7124,&quot;conditions&quot;:[],&quot;settings&quot;:false}" />
+</div>
+<div style="text-align:center;" class="all-form">
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap First"><input type="text" name="First" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name *" /></span></div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Last"><input type="text" name="Last" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Last Name *" /></span></div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Post"><input type="text" name="Post" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Post Applied For *" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Department"><input type="text" name="Department" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Department" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Institute"><select name="Institute" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required Institute" id="Institute" aria-required="true" aria-invalid="false"><option value="">---</option><option value="Institute Applied For *" selected="selected">Institute Applied For *</option><option value="NHCE">NHCE</option><option value="NHC">NHC</option></select></span></div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Dob"><input type="date" name="Dob" value="" class="wpcf7-form-control wpcf7-date wpcf7-validates-as-date" aria-invalid="false" placeholder="dd/mm/yyyy" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Age"><input type="number" name="Age" value="" class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number" aria-invalid="false" placeholder="Age" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Address"><input type="text" name="Address" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Address" /></span>  </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Graduation"><input type="text" name="Graduation" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Graduation" /></span>  </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Post"><input type="text" name="Post" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Post Graduation" /></span>  </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Other"><input type="text" name="Other" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="PHD/MPhill" /></span></div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Work"><input type="text" name="Work" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Work Experience" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Total"><input type="text" name="Total" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Total Exp" /></span>  </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Industry"><input type="text" name="Industry" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Industry Exp" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Teaching"><input type="text" name="Teaching" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Teaching Exp*" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Email"><input type="email" name="Email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email *" /></span> </div>
+<div class="form-inline-field"><span class="wpcf7-form-control-wrap Mobile"><input type="tel" name="Mobile" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="Mobile" /></span></div>
+<div class="form-inline-field"></div>
+<div class="form-inline-field">Upload Resume:<span class="wpcf7-form-control-wrap file-984"><input type="file" name="file-984" size="40" class="wpcf7-form-control wpcf7-file wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span></div>
+<div class="form-inline-field"></div>
+<p><br><br />
+<strong>Note:</strong> Please Upload the Resume in pdf / doc / docx / txt format.<br />
+<br></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit carsubmit" /></p>
+</div>
+<input type="hidden" id="ct_checkjs_cf7_81448138f5f163ccdba4acc69819f280" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_81448138f5f163ccdba4acc69819f280';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<div id="pum-6093" class="pum pum-overlay pum-theme-6088 popmake-overlay click_open" data-popmake="{&quot;id&quot;:6093,&quot;slug&quot;:&quot;register-admission&quot;,&quot;theme_id&quot;:6088,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.apply-now&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;700&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-6093" class="pum-container popmake theme-6088 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div role="form" class="wpcf7" id="wpcf7-f85-o11" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/nhengineering/mtech-courses/m-tech-communication-systems/#wpcf7-f85-o11" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="85" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f85-o11" />
+<input type="hidden" name="_wpnonce" value="3c537c3387" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:85,&quot;conditions&quot;:[{&quot;if_field&quot;:&quot;SelectCourses&quot;,&quot;operator&quot;:&quot;equals&quot;,&quot;if_value&quot;:&quot;PG Courses&quot;,&quot;then_field&quot;:&quot;pgcourses&quot;},{&quot;if_field&quot;:&quot;SelectCourses&quot;,&quot;operator&quot;:&quot;equals&quot;,&quot;if_value&quot;:&quot;UG Courses&quot;,&quot;then_field&quot;:&quot;ugcourses&quot;}],&quot;settings&quot;:false}" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone *" /></span></p>
+<p><span class="wpcf7-form-control-wrap SelectCourses"><span class="wpcf7-form-control wpcf7-radio select-courses" id="select-courses"><span class="wpcf7-list-item first"><label><input type="radio" name="SelectCourses" value="UG Courses" /><span class="wpcf7-list-item-label">UG Courses</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="SelectCourses" value="PG Courses" /><span class="wpcf7-list-item-label">PG Courses</span></label></span></span></span></p>
+<p>
+<div id="ugcourses" data-class="wpcf7cf_group"><span class="wpcf7-form-control-wrap UGCourseslist"><select name="UGCourseslist" class="wpcf7-form-control wpcf7-select" id="ug-course-list" aria-invalid="false"><option value="">---</option><option value="Computer Science &amp; Engineering" selected="selected">Computer Science &amp; Engineering</option><option value="Electronics &amp; Communication Engineering">Electronics &amp; Communication Engineering</option><option value="Information Science &amp; Engineering">Information Science &amp; Engineering</option><option value="Electrical &amp; Electronics Engineering">Electrical &amp; Electronics Engineering</option><option value="Mechanical Engineering">Mechanical Engineering</option><option value="Civil Engineering">Civil Engineering</option><option value="Automobile Engineering">Automobile Engineering</option><option value="Biotechnology Engineering">Biotechnology Engineering</option></select></span></div>
+<p><div id="pgcourses" data-class="wpcf7cf_group"><span class="wpcf7-form-control-wrap PGCourseslist"><select name="PGCourseslist" class="wpcf7-form-control wpcf7-select" id="pg-course-list" aria-invalid="false"><option value="">---</option><option value="M.Tech – Computer Science &amp; Engineering">M.Tech – Computer Science &amp; Engineering</option><option value="M.Tech – Computer Network Engineering">M.Tech – Computer Network Engineering</option><option value="M.Tech – Communication Systems">M.Tech – Communication Systems</option><option value="M.Tech – Aeronautical Engineering">M.Tech – Aeronautical Engineering</option><option value="M.Tech – Software Engineering">M.Tech – Software Engineering</option><option value="M.Tech – Machine Design">M.Tech – Machine Design</option><option value="Master of Business Administration (MBA)">Master of Business Administration (MBA)</option><option value="Master Of Computer Applications (MCA)">Master Of Computer Applications (MCA)</option></select></span></div>
+<p><p><span class="wpcf7-form-control-wrap place"><input type="text" name="place" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Place *" /></span> </p>
+<p><span class="wpcf7-form-control-wrap Message"><textarea name="Message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span></p>
+<p>Input this code: <em>To use CAPTCHA, you need <a href="http://wordpress.org/extend/plugins/really-simple-captcha/">Really Simple CAPTCHA</a> plugin installed.</em><br />
+<span class="wpcf7-form-control-wrap captcha-778"><input type="text" name="captcha-778" value="" size="4" maxlength="4" class="wpcf7-form-control wpcf7-captchar" autocomplete="off" aria-invalid="false" /></span></p>
+<p><input type="submit" value="Enquire Now!" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type="hidden" id="ct_checkjs_cf7_cfbce4c1d7c425baf21d6b6f2babe6be" name="ct_checkjs_cf7" value="0" /><script type="text/javascript">setTimeout(function(){    var ct_input_name = 'ct_checkjs_cf7_cfbce4c1d7c425baf21d6b6f2babe6be';    if (document.getElementById(ct_input_name) !== null) {        var ct_input_value = document.getElementById(ct_input_name).value;        document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '881983187');     }}, 1000);</script><meta name='wpcf7-pum' content='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<script type="text/javascript">function ctSetCookie(c_name, value, def_value) {    document.cookie = c_name + "=" + escape(value) + "; path=/";}ctSetCookie("ct_checkjs", "881983187", "0");</script><style type="text/css"></style> 
+<script>
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    location = 'http://newhorizonindia.edu/nhengineering/thank-you-2/';
+}, false );
+</script>
+ 
+<link rel='stylesheet' id='su-box-shortcodes-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/shortcodes-ultimate/assets/css/box-shortcodes.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='su-content-shortcodes-css'  href='http://newhorizonindia.edu/nhengineering/wp-content/plugins/shortcodes-ultimate/assets/css/content-shortcodes.css?ver=4.9.9' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"5b38aa5e02","is_admin":"","is_mobile":"","ajaxurl":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=1.9.8.1'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/swfupload.min.js?ver=1.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var iphormL10n = {"error_submitting_form":"An error occurred submitting the form","swfupload_flash_url":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-includes\/js\/swfupload\/swfupload.swf","swfupload_upload_url":"http:\/\/newhorizonindia.edu\/nhengineering\/?iphorm_swfupload=1","swfupload_too_many":"You have attempted to queue too many files","swfupload_file_too_big":"This file exceeds the maximum upload size","swfupload_file_empty":"This file is empty","swfupload_file_type_not_allowed":"This file type is not allowed","swfupload_unknown_queue_error":"Unknown queue error, please try again later","swfupload_upload_error":"Upload error","swfupload_upload_failed":"Upload failed","swfupload_server_io":"Server IO error","swfupload_security_error":"Security error","swfupload_limit_exceeded":"Upload limit exceeded","swfupload_validation_failed":"Validation failed","swfupload_upload_stopped":"Upload stopped","swfupload_unknown_upload_error":"Unknown upload error","plugin_url":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-content\/plugins\/iphorm-form-builder","ajax_url":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-admin\/admin-ajax.php","preview_no_submit":"The form cannot be submitted in the preview"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/jquery.iphorm.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/jquery.smooth-scroll.min.js?ver=1.4.9'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/qtip2/jquery.qtip.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/uniform/jquery.uniform.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/js/jquery.infieldlabel.min.js?ver=0.1'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/iphorm-form-builder/themes/light/rounded.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/learnpress/assets/js/frontend/course-lesson.js?ver=1.0.8'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/learnpress/assets/js/jquery.alert.js?ver=1.0.8'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/learnpress/assets/js/global.js?ver=1.0.8'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/tf-numbers-number-counter-animaton/assets/js/tf_numbers.js?ver=1.4.13'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.supercarousel.min.js?ver=2.4'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.imagesloaded.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.ismouseover.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.easing.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.easing.compatibility.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.mousewheel.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/ditty-news-ticker/assets/js/jquery.touchSwipe.min.js?ver=2.1.5'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.feedify.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.framerate.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/lightGallery.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/Super-Carousel-v2.9/js/jquery.watch.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pum_vars = {"ajaxurl":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-admin\/admin-ajax.php","restapi":"http:\/\/newhorizonindia.edu\/nhengineering\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"6085","debug_mode":"","disable_open_tracking":""};
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit http:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_display_settings":"Display Settings:","label_close_settings":"Close Settings:","label_event_before_open":"Event: Before Open","label_event_after_open":"Event: After Open","label_event_open_prevented":"Event: Open Prevented","label_event_setup_close":"Event: Setup Close","label_event_close_prevented":"Event: Close Prevented","label_event_before_close":"Event: Before Close","label_event_after_close":"Event: After Close","label_event_before_reposition":"Event: Before Reposition","label_event_after_reposition":"Event: After Reposition","label_event_checking_condition":"Event: Checking Condition","triggers":{"click_open":{"name":"Click Open","modal_title":"Click Trigger Settings","settings_column":"<strong>Extra Selectors<\/strong>: {{data.extra_selectors}}"},"auto_open":{"name":"Auto Open","modal_title":"Auto Open Settings","settings_column":"<strong>Delay<\/strong>: {{data.delay}}"}},"cookies":{"on_popup_open":{"name":"On Popup Open","modal_title":"On Popup Open Settings"},"on_popup_close":{"name":"On Popup Close","modal_title":"On Popup Close Settings"},"manual":{"name":"Manual JavaScript","modal_title":"Click Trigger Settings"}}};
+var ajaxurl = "http:\/\/newhorizonindia.edu\/nhengineering\/wp-admin\/admin-ajax.php";
+var popmake_default_theme = "6085";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&#038;ver=1.6.1' defer='defer'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/themes/eduma/assets/js/main.min.js?ver=4.5.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thim_placeholder = {"login":"Username","password":"Password"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/themes/eduma/assets/js/custom-script-v1.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-includes/js/wp-embed.min.js?ver=4.5.14'></script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=1.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var su_other_shortcodes = {"no_preview":"This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://newhorizonindia.edu/nhengineering/wp-content/plugins/shortcodes-ultimate/assets/js/other-shortcodes.js?ver=4.9.9'></script>
+<script>
+function downloadpdf(){
+  var req = new XMLHttpRequest();
+  req.open("GET", "http://newhorizonindia.edu/nhengineering/wp-content/uploads/2017/04/Final-NHCE-Prospectus-webd.pdf", true);
+  req.responseType = "blob";
+
+  req.onload = function (event) {
+    var blob = req.response;
+    console.log(blob.size);
+    var link=document.createElement('a');
+    link.href=window.URL.createObjectURL(blob);
+    link.download="nhce_" + new Date() + ".pdf";
+    link.click();
+  };
+
+  req.send();
+}
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1005496154;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005496154/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', '9abf0a7a48a32d0d3d5fcddbe4a6cfe1d6764d6e');
+</script>
+
+</body >
+</html >
